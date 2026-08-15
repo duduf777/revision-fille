@@ -1152,6 +1152,11 @@
       "read": true,
       "masteryPct": 100,
       "lastReviewed": 1786826579907
+    },
+    "hg-2": {
+      "read": true,
+      "masteryPct": 0,
+      "lastReviewed": 1786826672360
     }
   }
 }
