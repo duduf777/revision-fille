@@ -9,36 +9,43 @@
           "id": "prepa-1",
           "title": "Grandeurs et unités (rappels collège)",
           "fiche": "Le système international utilise des unités de base : mètre (m), kilogramme (kg), seconde (s), ampère (A), mole (mol).\n\nLes puissances de 10 permettent d'écrire les très grands ou très petits nombres (notation scientifique).\n\nBien convertir : 1 km = 1000 m, 1 L = 1000 mL, 1 h = 3600 s.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "1 km correspond à :",
-              "choices": [
-                "10 m",
-                "100 m",
-                "1000 m",
-                "10 000 m"
-              ],
-              "correct": 2
-            },
-            {
-              "q": "L'unité de masse du système international est :",
-              "choices": [
-                "Le gramme",
-                "Le kilogramme",
-                "La tonne",
-                "Le litre"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "1 heure correspond à :",
-              "choices": [
-                "600 s",
-                "3600 s",
-                "60 s",
-                "36 000 s"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "1 km correspond à :",
+                  "choices": [
+                    "10 m",
+                    "100 m",
+                    "1000 m",
+                    "10 000 m"
+                  ],
+                  "correct": 2
+                },
+                {
+                  "q": "L'unité de masse du système international est :",
+                  "choices": [
+                    "Le gramme",
+                    "Le kilogramme",
+                    "La tonne",
+                    "Le litre"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "1 heure correspond à :",
+                  "choices": [
+                    "600 s",
+                    "3600 s",
+                    "60 s",
+                    "36 000 s"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         },
@@ -46,36 +53,43 @@
           "id": "prepa-2",
           "title": "Calcul, fractions et proportionnalité",
           "fiche": "Une fraction a/b représente une division : a est le numérateur, b le dénominateur (b ≠ 0).\n\nPour additionner deux fractions, il faut le même dénominateur.\n\nLa proportionnalité : deux grandeurs sont proportionnelles si l'une est obtenue en multipliant l'autre par un même nombre (coefficient).\n\nLe produit en croix permet de résoudre a/b = c/x.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "1/2 + 1/4 est égal à :",
-              "choices": [
-                "2/6",
-                "3/4",
-                "1/6",
-                "2/4"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Deux grandeurs proportionnelles sont liées par :",
-              "choices": [
-                "Une addition",
-                "Un coefficient multiplicateur constant",
-                "Une soustraction",
-                "Aucune relation"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Le produit en croix sert à résoudre :",
-              "choices": [
-                "Une addition",
-                "Une égalité de fractions",
-                "Une inéquation",
-                "Une racine carrée"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "1/2 + 1/4 est égal à :",
+                  "choices": [
+                    "2/6",
+                    "3/4",
+                    "1/6",
+                    "2/4"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Deux grandeurs proportionnelles sont liées par :",
+                  "choices": [
+                    "Une addition",
+                    "Un coefficient multiplicateur constant",
+                    "Une soustraction",
+                    "Aucune relation"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Le produit en croix sert à résoudre :",
+                  "choices": [
+                    "Une addition",
+                    "Une égalité de fractions",
+                    "Une inéquation",
+                    "Une racine carrée"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         },
@@ -83,36 +97,43 @@
           "id": "prepa-3",
           "title": "Grammaire et conjugaison de base",
           "fiche": "Le sujet commande l'accord du verbe (nombre et personne).\n\nLes temps de base : présent, imparfait, passé composé, futur simple.\n\nL'accord du participe passé avec être se fait avec le sujet ; avec avoir, il ne s'accorde en général pas avec le sujet.\n\nUne phrase simple contient au moins un sujet et un verbe conjugué.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "Le participe passé employé avec 'être' s'accorde avec :",
-              "choices": [
-                "Le complément",
-                "Le sujet",
-                "Rien",
-                "Le verbe"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Quel temps exprime une action passée non terminée ?",
-              "choices": [
-                "Le futur",
-                "L'imparfait",
-                "Le présent",
-                "Le conditionnel"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Une phrase simple contient au minimum :",
-              "choices": [
-                "Un sujet et un verbe conjugué",
-                "Deux verbes",
-                "Un adjectif",
-                "Une virgule"
-              ],
-              "correct": 0
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "Le participe passé employé avec 'être' s'accorde avec :",
+                  "choices": [
+                    "Le complément",
+                    "Le sujet",
+                    "Rien",
+                    "Le verbe"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Quel temps exprime une action passée non terminée ?",
+                  "choices": [
+                    "Le futur",
+                    "L'imparfait",
+                    "Le présent",
+                    "Le conditionnel"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Une phrase simple contient au minimum :",
+                  "choices": [
+                    "Un sujet et un verbe conjugué",
+                    "Deux verbes",
+                    "Un adjectif",
+                    "Une virgule"
+                  ],
+                  "correct": 0
+                }
+              ]
             }
           ]
         },
@@ -120,36 +141,43 @@
           "id": "prepa-4",
           "title": "Repères histoire-géo essentiels",
           "fiche": "Une frise chronologique situe des événements dans l'ordre du temps, à une échelle donnée.\n\nUne carte utilise une légende pour expliquer les symboles et couleurs utilisés.\n\nLes grandes périodes historiques : Antiquité, Moyen Âge, Temps modernes, Époque contemporaine.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "Une frise chronologique sert à :",
-              "choices": [
-                "Localiser un lieu",
-                "Situer des événements dans le temps",
-                "Décrire un relief",
-                "Mesurer une population"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "La légende d'une carte permet de :",
-              "choices": [
-                "Donner le titre",
-                "Expliquer les symboles utilisés",
-                "Indiquer l'échelle uniquement",
-                "Rien de particulier"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Quelle période vient après le Moyen Âge ?",
-              "choices": [
-                "L'Antiquité",
-                "Les Temps modernes",
-                "La Préhistoire",
-                "L'époque contemporaine"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "Une frise chronologique sert à :",
+                  "choices": [
+                    "Localiser un lieu",
+                    "Situer des événements dans le temps",
+                    "Décrire un relief",
+                    "Mesurer une population"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "La légende d'une carte permet de :",
+                  "choices": [
+                    "Donner le titre",
+                    "Expliquer les symboles utilisés",
+                    "Indiquer l'échelle uniquement",
+                    "Rien de particulier"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Quelle période vient après le Moyen Âge ?",
+                  "choices": [
+                    "L'Antiquité",
+                    "Les Temps modernes",
+                    "La Préhistoire",
+                    "L'époque contemporaine"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         },
@@ -157,36 +185,43 @@
           "id": "prepa-5",
           "title": "Anglais : bases essentielles",
           "fiche": "Le present simple sert à décrire une habitude ou un fait général (I play, she plays).\n\nLe present continuous décrit une action en cours (I am playing).\n\nLes mots interrogatifs de base : who, what, where, when, why, how.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "'She always ___ tea in the morning.' Quel verbe ?",
-              "choices": [
-                "drink",
-                "drinks",
-                "drinking",
-                "is drink"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Le present continuous se forme avec :",
-              "choices": [
-                "be + verbe-ing",
-                "have + verbe-ed",
-                "verbe seul",
-                "will + verbe"
-              ],
-              "correct": 0
-            },
-            {
-              "q": "'___ is your name?' — quel mot interrogatif ?",
-              "choices": [
-                "Where",
-                "What",
-                "When",
-                "Why"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "'She always ___ tea in the morning.' Quel verbe ?",
+                  "choices": [
+                    "drink",
+                    "drinks",
+                    "drinking",
+                    "is drink"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Le present continuous se forme avec :",
+                  "choices": [
+                    "be + verbe-ing",
+                    "have + verbe-ed",
+                    "verbe seul",
+                    "will + verbe"
+                  ],
+                  "correct": 0
+                },
+                {
+                  "q": "'___ is your name?' — quel mot interrogatif ?",
+                  "choices": [
+                    "Where",
+                    "What",
+                    "When",
+                    "Why"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         },
@@ -194,36 +229,43 @@
           "id": "prepa-6",
           "title": "SVT : le vivant, notions de base",
           "fiche": "Un être vivant naît, grandit, se reproduit et meurt.\n\nLa cellule est l'unité de base du vivant : tous les êtres vivants sont constitués d'une ou plusieurs cellules.\n\nLa classification range les espèces selon leurs points communs (attributs partagés).",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "L'unité de base du vivant est :",
-              "choices": [
-                "L'organe",
-                "La cellule",
-                "Le tissu",
-                "L'ADN seul"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "La classification des espèces se fait selon :",
-              "choices": [
-                "Leur taille uniquement",
-                "Leurs attributs partagés",
-                "Leur couleur",
-                "Leur âge"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Un être vivant se caractérise par :",
-              "choices": [
-                "Il ne bouge jamais",
-                "Naître, grandir, se reproduire, mourir",
-                "Il est toujours immobile",
-                "Il ne mange pas"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "L'unité de base du vivant est :",
+                  "choices": [
+                    "L'organe",
+                    "La cellule",
+                    "Le tissu",
+                    "L'ADN seul"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "La classification des espèces se fait selon :",
+                  "choices": [
+                    "Leur taille uniquement",
+                    "Leurs attributs partagés",
+                    "Leur couleur",
+                    "Leur âge"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Un être vivant se caractérise par :",
+                  "choices": [
+                    "Il ne bouge jamais",
+                    "Naître, grandir, se reproduire, mourir",
+                    "Il est toujours immobile",
+                    "Il ne mange pas"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         }
@@ -237,46 +279,53 @@
           "id": "pc-1",
           "title": "Constitution de la matière",
           "fiche": "La matière est constituée d'atomes, eux-mêmes formés d'un noyau (protons + neutrons) entouré d'électrons.\n\nLe tableau périodique classe les éléments par numéro atomique Z (nombre de protons).\n\nUne molécule est un assemblage d'atomes liés par des liaisons covalentes (mise en commun d'électrons).\n\nÀ retenir : symbole, numéro atomique Z, nombre de masse A. Un ion se forme par perte ou gain d'électrons.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "Que trouve-t-on dans le noyau d'un atome ?",
-              "choices": [
-                "Des électrons",
-                "Des protons et des neutrons",
-                "Uniquement des protons",
-                "Des molécules"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Le numéro atomique Z correspond à :",
-              "choices": [
-                "Le nombre de neutrons",
-                "Le nombre de protons",
-                "La masse de l'atome",
-                "Le nombre de liaisons"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Un ion se forme quand un atome :",
-              "choices": [
-                "Change de noyau",
-                "Gagne ou perd des électrons",
-                "Se divise en deux",
-                "Fusionne avec un autre noyau"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Une liaison covalente correspond à :",
-              "choices": [
-                "Un transfert complet d'électrons",
-                "Une mise en commun d'électrons",
-                "Une attraction entre noyaux",
-                "Une réaction nucléaire"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "Que trouve-t-on dans le noyau d'un atome ?",
+                  "choices": [
+                    "Des électrons",
+                    "Des protons et des neutrons",
+                    "Uniquement des protons",
+                    "Des molécules"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Le numéro atomique Z correspond à :",
+                  "choices": [
+                    "Le nombre de neutrons",
+                    "Le nombre de protons",
+                    "La masse de l'atome",
+                    "Le nombre de liaisons"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Un ion se forme quand un atome :",
+                  "choices": [
+                    "Change de noyau",
+                    "Gagne ou perd des électrons",
+                    "Se divise en deux",
+                    "Fusionne avec un autre noyau"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Une liaison covalente correspond à :",
+                  "choices": [
+                    "Un transfert complet d'électrons",
+                    "Une mise en commun d'électrons",
+                    "Une attraction entre noyaux",
+                    "Une réaction nucléaire"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         },
@@ -284,36 +333,43 @@
           "id": "pc-2",
           "title": "Mouvement et interactions",
           "fiche": "Le mouvement d'un objet dépend du référentiel choisi : il est relatif.\n\nLa vitesse moyenne v = distance / durée (m/s).\n\nPrincipe d'inertie : si les forces qui s'exercent sur un objet se compensent, il reste au repos ou garde une vitesse constante en ligne droite.\n\nUne force modifie la vitesse et/ou la trajectoire d'un objet. Elle se représente par un vecteur (direction, sens, valeur).",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "Le mouvement d'un objet est toujours :",
-              "choices": [
-                "Absolu",
-                "Relatif à un référentiel",
-                "Nul",
-                "Identique pour tous"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Si les forces se compensent, un objet en mouvement :",
-              "choices": [
-                "S'arrête immédiatement",
-                "Accélère",
-                "Garde une trajectoire rectiligne à vitesse constante",
-                "Tourne sur lui-même"
-              ],
-              "correct": 2
-            },
-            {
-              "q": "Une force est représentée par :",
-              "choices": [
-                "Un nombre seul",
-                "Un vecteur",
-                "Une couleur",
-                "Une unité de temps"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "Le mouvement d'un objet est toujours :",
+                  "choices": [
+                    "Absolu",
+                    "Relatif à un référentiel",
+                    "Nul",
+                    "Identique pour tous"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Si les forces se compensent, un objet en mouvement :",
+                  "choices": [
+                    "S'arrête immédiatement",
+                    "Accélère",
+                    "Garde une trajectoire rectiligne à vitesse constante",
+                    "Tourne sur lui-même"
+                  ],
+                  "correct": 2
+                },
+                {
+                  "q": "Une force est représentée par :",
+                  "choices": [
+                    "Un nombre seul",
+                    "Un vecteur",
+                    "Une couleur",
+                    "Une unité de temps"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         },
@@ -321,36 +377,43 @@
           "id": "pc-3",
           "title": "Ondes et signaux",
           "fiche": "Une onde transporte de l'énergie sans transporter de matière.\n\nLa lumière se propage en ligne droite et très vite (≈300 000 km/s dans le vide).\n\nLe son a besoin d'un milieu matériel pour se propager (il ne se propage pas dans le vide).\n\nLa fréquence (Hz) et la période (s) sont liées : période = 1 / fréquence.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "Une onde transporte :",
-              "choices": [
-                "De la matière",
-                "De l'énergie",
-                "Rien du tout",
-                "Uniquement du son"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Le son se propage :",
-              "choices": [
-                "Dans le vide",
-                "Uniquement dans l'air",
-                "Dans un milieu matériel",
-                "Plus vite que la lumière"
-              ],
-              "correct": 2
-            },
-            {
-              "q": "La relation entre période T et fréquence f est :",
-              "choices": [
-                "T = f",
-                "T = 1/f",
-                "T = f²",
-                "T = 2f"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "Une onde transporte :",
+                  "choices": [
+                    "De la matière",
+                    "De l'énergie",
+                    "Rien du tout",
+                    "Uniquement du son"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Le son se propage :",
+                  "choices": [
+                    "Dans le vide",
+                    "Uniquement dans l'air",
+                    "Dans un milieu matériel",
+                    "Plus vite que la lumière"
+                  ],
+                  "correct": 2
+                },
+                {
+                  "q": "La relation entre période T et fréquence f est :",
+                  "choices": [
+                    "T = f",
+                    "T = 1/f",
+                    "T = f²",
+                    "T = 2f"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         },
@@ -358,36 +421,43 @@
           "id": "pc-4",
           "title": "Énergie",
           "fiche": "L'énergie existe sous plusieurs formes : cinétique (mouvement), potentielle (position), thermique, chimique, électrique.\n\nL'énergie se conserve : elle ne disparaît jamais, elle se transforme ou se transfère.\n\nUn transfert thermique se fait toujours du corps chaud vers le corps froid.\n\nUnité d'énergie : le joule (J).",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "L'énergie liée au mouvement s'appelle :",
-              "choices": [
-                "Énergie potentielle",
-                "Énergie cinétique",
-                "Énergie thermique",
-                "Énergie chimique"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Un transfert thermique va toujours :",
-              "choices": [
-                "Du froid vers le chaud",
-                "Du chaud vers le froid",
-                "Dans les deux sens égaux",
-                "Il n'y a pas de règle"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "L'unité de l'énergie est :",
-              "choices": [
-                "Le watt",
-                "Le newton",
-                "Le joule",
-                "Le volt"
-              ],
-              "correct": 2
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "L'énergie liée au mouvement s'appelle :",
+                  "choices": [
+                    "Énergie potentielle",
+                    "Énergie cinétique",
+                    "Énergie thermique",
+                    "Énergie chimique"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Un transfert thermique va toujours :",
+                  "choices": [
+                    "Du froid vers le chaud",
+                    "Du chaud vers le froid",
+                    "Dans les deux sens égaux",
+                    "Il n'y a pas de règle"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "L'unité de l'énergie est :",
+                  "choices": [
+                    "Le watt",
+                    "Le newton",
+                    "Le joule",
+                    "Le volt"
+                  ],
+                  "correct": 2
+                }
+              ]
             }
           ]
         }
@@ -401,36 +471,43 @@
           "id": "ma-1",
           "title": "Nombres et calculs",
           "fiche": "Ensembles de nombres : entiers naturels (ℕ), relatifs (ℤ), décimaux (𝔻), rationnels (ℚ), réels (ℝ).\n\nPriorités opératoires : parenthèses, puis puissances, puis multiplications/divisions, puis additions/soustractions.\n\nUn nombre relatif négatif multiplié par un négatif donne un positif ; par un positif, un négatif.\n\nRacine carrée : √a n'existe (dans ℝ) que si a ≥ 0.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "Priorité dans 3 + 4 × 2 :",
-              "choices": [
-                "On calcule 3+4 d'abord",
-                "On calcule 4×2 d'abord",
-                "De gauche à droite toujours",
-                "Aucune règle"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "(-3) × (-5) est égal à :",
-              "choices": [
-                "-15",
-                "15",
-                "-8",
-                "8"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "√(-4) dans les nombres réels :",
-              "choices": [
-                "Vaut -2",
-                "Vaut 2",
-                "N'existe pas",
-                "Vaut 4"
-              ],
-              "correct": 2
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "Priorité dans 3 + 4 × 2 :",
+                  "choices": [
+                    "On calcule 3+4 d'abord",
+                    "On calcule 4×2 d'abord",
+                    "De gauche à droite toujours",
+                    "Aucune règle"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "(-3) × (-5) est égal à :",
+                  "choices": [
+                    "-15",
+                    "15",
+                    "-8",
+                    "8"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "√(-4) dans les nombres réels :",
+                  "choices": [
+                    "Vaut -2",
+                    "Vaut 2",
+                    "N'existe pas",
+                    "Vaut 4"
+                  ],
+                  "correct": 2
+                }
+              ]
             }
           ]
         },
@@ -438,36 +515,43 @@
           "id": "ma-2",
           "title": "Expressions algébriques et équations",
           "fiche": "Développer : k(a + b) = ka + kb. Identités remarquables : (a+b)² = a² + 2ab + b² ; (a-b)² = a² - 2ab + b² ; (a+b)(a-b) = a² - b².\n\nRésoudre une équation : isoler l'inconnue en effectuant la même opération des deux côtés.\n\nUne fonction associe à chaque nombre x un unique nombre f(x).",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "(a+b)² développé donne :",
-              "choices": [
-                "a² + b²",
-                "a² + 2ab + b²",
-                "a² - 2ab + b²",
-                "2a + 2b"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Résoudre 2x + 3 = 11, x vaut :",
-              "choices": [
-                "4",
-                "7",
-                "3",
-                "8"
-              ],
-              "correct": 0
-            },
-            {
-              "q": "Une fonction associe à x :",
-              "choices": [
-                "Plusieurs valeurs possibles",
-                "Une unique valeur f(x)",
-                "Toujours 0",
-                "Rien de précis"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "(a+b)² développé donne :",
+                  "choices": [
+                    "a² + b²",
+                    "a² + 2ab + b²",
+                    "a² - 2ab + b²",
+                    "2a + 2b"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Résoudre 2x + 3 = 11, x vaut :",
+                  "choices": [
+                    "4",
+                    "7",
+                    "3",
+                    "8"
+                  ],
+                  "correct": 0
+                },
+                {
+                  "q": "Une fonction associe à x :",
+                  "choices": [
+                    "Plusieurs valeurs possibles",
+                    "Une unique valeur f(x)",
+                    "Toujours 0",
+                    "Rien de précis"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         },
@@ -475,36 +559,43 @@
           "id": "ma-3",
           "title": "Géométrie et repérage",
           "fiche": "Dans un repère (O, I, J), un point est repéré par ses coordonnées (x ; y).\n\nThéorème de Pythagore (triangle rectangle) : le carré de l'hypoténuse = somme des carrés des deux autres côtés.\n\nThéorème de Thalès : dans une configuration de triangles emboîtés avec droites parallèles, les longueurs sont proportionnelles.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "Dans un triangle rectangle, Pythagore relie :",
-              "choices": [
-                "Les trois angles",
-                "Les longueurs des côtés",
-                "Le périmètre et l'aire",
-                "Rien de particulier"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Thalès s'applique quand deux droites sont :",
-              "choices": [
-                "Perpendiculaires",
-                "Parallèles",
-                "Sécantes à angle droit",
-                "Confondues"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Un point dans un repère est donné par :",
-              "choices": [
-                "Une seule valeur",
-                "Un couple (x ; y)",
-                "Un angle uniquement",
-                "Une couleur"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "Dans un triangle rectangle, Pythagore relie :",
+                  "choices": [
+                    "Les trois angles",
+                    "Les longueurs des côtés",
+                    "Le périmètre et l'aire",
+                    "Rien de particulier"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Thalès s'applique quand deux droites sont :",
+                  "choices": [
+                    "Perpendiculaires",
+                    "Parallèles",
+                    "Sécantes à angle droit",
+                    "Confondues"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Un point dans un repère est donné par :",
+                  "choices": [
+                    "Une seule valeur",
+                    "Un couple (x ; y)",
+                    "Un angle uniquement",
+                    "Une couleur"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         }
@@ -518,34 +609,41 @@
           "id": "fr-1",
           "title": "Grammaire et orthographe essentielles",
           "fiche": "Nature des mots : nom, verbe, adjectif, adverbe, déterminant, pronom, préposition, conjonction.\n\nFonction dans la phrase : sujet, COD, COI, complément circonstanciel, attribut du sujet.\n\nAccord du verbe avec le sujet même quand il est éloigné ou inversé.\n\nHomophones à ne pas confondre : a/à, ou/où, ce/se, ces/ses/c'est.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "Dans 'Le chat mange la souris', 'la souris' est :",
-              "choices": [
-                "Sujet",
-                "COD",
-                "Attribut",
-                "Complément circonstanciel"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "'Les enfants qui jouent dehors rentrent' — le verbe s'accorde avec :",
-              "choices": [
-                "Dehors",
-                "Jouent",
-                "Les enfants",
-                "Qui"
-              ],
-              "correct": 2
-            },
-            {
-              "q": "Quelle orthographe est correcte : 'Il va ___ l'école' ?",
-              "choices": [
-                "a",
-                "à"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "Dans 'Le chat mange la souris', 'la souris' est :",
+                  "choices": [
+                    "Sujet",
+                    "COD",
+                    "Attribut",
+                    "Complément circonstanciel"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "'Les enfants qui jouent dehors rentrent' — le verbe s'accorde avec :",
+                  "choices": [
+                    "Dehors",
+                    "Jouent",
+                    "Les enfants",
+                    "Qui"
+                  ],
+                  "correct": 2
+                },
+                {
+                  "q": "Quelle orthographe est correcte : 'Il va ___ l'école' ?",
+                  "choices": [
+                    "a",
+                    "à"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         },
@@ -553,36 +651,43 @@
           "id": "fr-2",
           "title": "Lire et analyser un texte",
           "fiche": "Identifier le genre (roman, théâtre, poésie, texte argumentatif) avant d'analyser.\n\nRepérer le narrateur (interne, externe, omniscient) dans un récit.\n\nUn procédé littéraire (métaphore, comparaison, répétition, antithèse) sert toujours une intention de l'auteur : chercher laquelle.\n\nUne thèse est l'idée défendue ; un argument la justifie ; un exemple l'illustre.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "Un narrateur qui connaît les pensées de tous les personnages est :",
-              "choices": [
-                "Interne",
-                "Externe",
-                "Omniscient",
-                "Absent"
-              ],
-              "correct": 2
-            },
-            {
-              "q": "Une métaphore consiste à :",
-              "choices": [
-                "Comparer avec 'comme'",
-                "Assimiler deux éléments sans outil de comparaison",
-                "Répéter un mot",
-                "Poser une question"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Dans un texte argumentatif, un exemple sert à :",
-              "choices": [
-                "Remplacer la thèse",
-                "Illustrer un argument",
-                "Contredire l'auteur",
-                "Rien de précis"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "Un narrateur qui connaît les pensées de tous les personnages est :",
+                  "choices": [
+                    "Interne",
+                    "Externe",
+                    "Omniscient",
+                    "Absent"
+                  ],
+                  "correct": 2
+                },
+                {
+                  "q": "Une métaphore consiste à :",
+                  "choices": [
+                    "Comparer avec 'comme'",
+                    "Assimiler deux éléments sans outil de comparaison",
+                    "Répéter un mot",
+                    "Poser une question"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Dans un texte argumentatif, un exemple sert à :",
+                  "choices": [
+                    "Remplacer la thèse",
+                    "Illustrer un argument",
+                    "Contredire l'auteur",
+                    "Rien de précis"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         },
@@ -590,36 +695,43 @@
           "id": "fr-3",
           "title": "Écrire un texte argumentatif",
           "fiche": "Structure de base : introduction (annonce du sujet et du plan), développement (arguments + exemples), conclusion (bilan, ouverture).\n\nUn connecteur logique organise les idées : d'abord/ensuite/enfin, cependant, en effet, par conséquent.\n\nChaque paragraphe développe une seule idée principale.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "Un connecteur d'opposition parmi ceux-ci :",
-              "choices": [
-                "Ensuite",
-                "Cependant",
-                "Par exemple",
-                "Enfin"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Une conclusion doit surtout :",
-              "choices": [
-                "Introduire un nouvel argument",
-                "Faire le bilan et ouvrir la réflexion",
-                "Répéter l'introduction mot pour mot",
-                "Poser une nouvelle thèse"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Un paragraphe argumentatif doit développer :",
-              "choices": [
-                "Plusieurs idées à la fois",
-                "Une seule idée principale",
-                "Aucune idée précise",
-                "Uniquement des exemples"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "Un connecteur d'opposition parmi ceux-ci :",
+                  "choices": [
+                    "Ensuite",
+                    "Cependant",
+                    "Par exemple",
+                    "Enfin"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Une conclusion doit surtout :",
+                  "choices": [
+                    "Introduire un nouvel argument",
+                    "Faire le bilan et ouvrir la réflexion",
+                    "Répéter l'introduction mot pour mot",
+                    "Poser une nouvelle thèse"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Un paragraphe argumentatif doit développer :",
+                  "choices": [
+                    "Plusieurs idées à la fois",
+                    "Une seule idée principale",
+                    "Aucune idée précise",
+                    "Uniquement des exemples"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         }
@@ -633,36 +745,43 @@
           "id": "svt-1",
           "title": "La cellule, unité du vivant",
           "fiche": "Tous les êtres vivants sont constitués de cellules, unicellulaires ou pluricellulaires.\n\nUne cellule contient un noyau (chez les eucaryotes) renfermant l'ADN, porteur de l'information génétique.\n\nLa division cellulaire permet la croissance et le renouvellement des tissus.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "L'ADN se trouve principalement dans :",
-              "choices": [
-                "Le cytoplasme",
-                "Le noyau",
-                "La membrane",
-                "Rien de précis"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Un organisme unicellulaire est constitué de :",
-              "choices": [
-                "Plusieurs cellules",
-                "Une seule cellule",
-                "Aucune cellule",
-                "Uniquement de l'ADN"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "La division cellulaire sert notamment à :",
-              "choices": [
-                "Détruire l'organisme",
-                "La croissance et le renouvellement",
-                "Rien de particulier",
-                "Arrêter la vie"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "L'ADN se trouve principalement dans :",
+                  "choices": [
+                    "Le cytoplasme",
+                    "Le noyau",
+                    "La membrane",
+                    "Rien de précis"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Un organisme unicellulaire est constitué de :",
+                  "choices": [
+                    "Plusieurs cellules",
+                    "Une seule cellule",
+                    "Aucune cellule",
+                    "Uniquement de l'ADN"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "La division cellulaire sert notamment à :",
+                  "choices": [
+                    "Détruire l'organisme",
+                    "La croissance et le renouvellement",
+                    "Rien de particulier",
+                    "Arrêter la vie"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         },
@@ -670,36 +789,43 @@
           "id": "svt-2",
           "title": "Écosystèmes et biodiversité",
           "fiche": "Un écosystème regroupe les êtres vivants (biocénose) et leur milieu (biotope) en interaction.\n\nUne chaîne alimentaire relie producteurs (végétaux), consommateurs et décomposeurs.\n\nLa biodiversité désigne la diversité des espèces, des gènes et des écosystèmes.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "Le biotope d'un écosystème correspond à :",
-              "choices": [
-                "Les êtres vivants",
-                "Le milieu physique",
-                "Uniquement les plantes",
-                "Les prédateurs"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Dans une chaîne alimentaire, les producteurs sont :",
-              "choices": [
-                "Les carnivores",
-                "Les végétaux",
-                "Les décomposeurs",
-                "Les champignons uniquement"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "La biodiversité concerne :",
-              "choices": [
-                "Seulement les animaux",
-                "Espèces, gènes et écosystèmes",
-                "Seulement le climat",
-                "Rien de biologique"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "Le biotope d'un écosystème correspond à :",
+                  "choices": [
+                    "Les êtres vivants",
+                    "Le milieu physique",
+                    "Uniquement les plantes",
+                    "Les prédateurs"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Dans une chaîne alimentaire, les producteurs sont :",
+                  "choices": [
+                    "Les carnivores",
+                    "Les végétaux",
+                    "Les décomposeurs",
+                    "Les champignons uniquement"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "La biodiversité concerne :",
+                  "choices": [
+                    "Seulement les animaux",
+                    "Espèces, gènes et écosystèmes",
+                    "Seulement le climat",
+                    "Rien de biologique"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         },
@@ -707,36 +833,43 @@
           "id": "svt-3",
           "title": "Corps humain : bases de la nutrition",
           "fiche": "La digestion transforme les aliments en nutriments assimilables par l'organisme.\n\nLe sang transporte les nutriments et le dioxygène vers les cellules.\n\nUne alimentation équilibrée fournit l'énergie et les éléments nécessaires au fonctionnement du corps.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "La digestion permet de :",
-              "choices": [
-                "Éliminer l'eau",
-                "Transformer les aliments en nutriments",
-                "Produire de l'ADN",
-                "Rien de particulier"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Le sang transporte notamment :",
-              "choices": [
-                "Uniquement de l'eau",
-                "Nutriments et dioxygène",
-                "Que des déchets",
-                "Rien vers les cellules"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Une alimentation équilibrée apporte :",
-              "choices": [
-                "Que des graisses",
-                "Énergie et éléments nécessaires",
-                "Rien d'utile",
-                "Uniquement du sucre"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "La digestion permet de :",
+                  "choices": [
+                    "Éliminer l'eau",
+                    "Transformer les aliments en nutriments",
+                    "Produire de l'ADN",
+                    "Rien de particulier"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Le sang transporte notamment :",
+                  "choices": [
+                    "Uniquement de l'eau",
+                    "Nutriments et dioxygène",
+                    "Que des déchets",
+                    "Rien vers les cellules"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Une alimentation équilibrée apporte :",
+                  "choices": [
+                    "Que des graisses",
+                    "Énergie et éléments nécessaires",
+                    "Rien d'utile",
+                    "Uniquement du sucre"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         }
@@ -750,36 +883,43 @@
           "id": "hg-1",
           "title": "Méthode : analyser un document",
           "fiche": "Identifier nature, auteur, date et contexte du document avant toute analyse.\n\nDistinguer un fait (vérifiable) d'une opinion (point de vue de l'auteur).\n\nUne carte se lit toujours avec sa légende, son échelle et son orientation.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "Avant d'analyser un document, il faut d'abord identifier :",
-              "choices": [
-                "Sa couleur",
-                "Nature, auteur, date, contexte",
-                "Sa longueur",
-                "Rien de particulier"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Un fait, contrairement à une opinion, est :",
-              "choices": [
-                "Discutable",
-                "Vérifiable",
-                "Toujours faux",
-                "Une impression"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Pour lire une carte, on utilise en priorité :",
-              "choices": [
-                "La couleur du fond",
-                "La légende",
-                "Le titre seul",
-                "La taille du papier"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "Avant d'analyser un document, il faut d'abord identifier :",
+                  "choices": [
+                    "Sa couleur",
+                    "Nature, auteur, date, contexte",
+                    "Sa longueur",
+                    "Rien de particulier"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Un fait, contrairement à une opinion, est :",
+                  "choices": [
+                    "Discutable",
+                    "Vérifiable",
+                    "Toujours faux",
+                    "Une impression"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Pour lire une carte, on utilise en priorité :",
+                  "choices": [
+                    "La couleur du fond",
+                    "La légende",
+                    "Le titre seul",
+                    "La taille du papier"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         },
@@ -787,36 +927,43 @@
           "id": "hg-2",
           "title": "Grands repères historiques",
           "fiche": "Les grandes périodes : Antiquité, Moyen Âge, Temps modernes (à partir de 1492), Époque contemporaine (à partir de 1789).\n\nLa Révolution française (1789) marque un tournant politique majeur en Europe.\n\nUne frise chronologique permet de visualiser l'enchaînement et la durée des événements.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "Les Temps modernes commencent traditionnellement en :",
-              "choices": [
-                "1000",
-                "1492",
-                "1789",
-                "1900"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "La Révolution française a eu lieu en :",
-              "choices": [
-                "1492",
-                "1789",
-                "1815",
-                "1900"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Une frise chronologique sert à :",
-              "choices": [
-                "Localiser un pays",
-                "Visualiser des événements dans le temps",
-                "Décrire un relief",
-                "Rien de précis"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "Les Temps modernes commencent traditionnellement en :",
+                  "choices": [
+                    "1000",
+                    "1492",
+                    "1789",
+                    "1900"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "La Révolution française a eu lieu en :",
+                  "choices": [
+                    "1492",
+                    "1789",
+                    "1815",
+                    "1900"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Une frise chronologique sert à :",
+                  "choices": [
+                    "Localiser un pays",
+                    "Visualiser des événements dans le temps",
+                    "Décrire un relief",
+                    "Rien de précis"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         },
@@ -824,36 +971,43 @@
           "id": "hg-3",
           "title": "Grands repères géographiques",
           "fiche": "La mondialisation intensifie les échanges de biens, de personnes et d'informations à l'échelle planétaire.\n\nUne métropole concentre population, activités et pouvoirs de décision.\n\nUn espace peut s'étudier à différentes échelles : locale, nationale, mondiale.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "La mondialisation concerne surtout :",
-              "choices": [
-                "Un seul pays",
-                "Les échanges à l'échelle mondiale",
-                "Uniquement le climat",
-                "Rien d'économique"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Une métropole se caractérise par :",
-              "choices": [
-                "Peu d'habitants",
-                "Une forte concentration d'activités et de pouvoirs",
-                "L'absence de villes",
-                "Rien de particulier"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Étudier un espace 'à l'échelle locale' signifie :",
-              "choices": [
-                "À l'échelle du monde entier",
-                "À une échelle réduite, proche du terrain",
-                "Uniquement en histoire",
-                "Sans aucune précision"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "La mondialisation concerne surtout :",
+                  "choices": [
+                    "Un seul pays",
+                    "Les échanges à l'échelle mondiale",
+                    "Uniquement le climat",
+                    "Rien d'économique"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Une métropole se caractérise par :",
+                  "choices": [
+                    "Peu d'habitants",
+                    "Une forte concentration d'activités et de pouvoirs",
+                    "L'absence de villes",
+                    "Rien de particulier"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Étudier un espace 'à l'échelle locale' signifie :",
+                  "choices": [
+                    "À l'échelle du monde entier",
+                    "À une échelle réduite, proche du terrain",
+                    "Uniquement en histoire",
+                    "Sans aucune précision"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         }
@@ -867,36 +1021,43 @@
           "id": "an-1",
           "title": "Grammaire de base",
           "fiche": "Present simple (habitude/fait général) vs present continuous (action en cours) : 'I play' / 'I am playing'.\n\nPreterit (passé simple) pour une action terminée et datée : 'I played yesterday'.\n\nLe comparatif : short adjective + -er (bigger) ; long adjective : more + adjective (more interesting).",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "'Right now, she ___ homework.' Complète :",
-              "choices": [
-                "does",
-                "is doing",
-                "did",
-                "do"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Le prétérit s'utilise pour :",
-              "choices": [
-                "Une habitude actuelle",
-                "Une action passée et terminée",
-                "Le futur",
-                "Une vérité générale"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Comparatif de 'big' :",
-              "choices": [
-                "More big",
-                "Bigger",
-                "Biggest",
-                "Big more"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "'Right now, she ___ homework.' Complète :",
+                  "choices": [
+                    "does",
+                    "is doing",
+                    "did",
+                    "do"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Le prétérit s'utilise pour :",
+                  "choices": [
+                    "Une habitude actuelle",
+                    "Une action passée et terminée",
+                    "Le futur",
+                    "Une vérité générale"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Comparatif de 'big' :",
+                  "choices": [
+                    "More big",
+                    "Bigger",
+                    "Biggest",
+                    "Big more"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         },
@@ -904,36 +1065,43 @@
           "id": "an-2",
           "title": "Vocabulaire thématique du quotidien",
           "fiche": "Se présenter : name, age, nationality, hobbies.\n\nDécrire une routine : wake up, have breakfast, go to school, do homework.\n\nExprimer une opinion : I think that…, In my opinion…, I disagree because…",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "'Se présenter' inclut typiquement :",
-              "choices": [
-                "Name, age, hobbies",
-                "Uniquement des chiffres",
-                "Que la météo",
-                "Rien de personnel"
-              ],
-              "correct": 0
-            },
-            {
-              "q": "Pour exprimer une opinion, on peut dire :",
-              "choices": [
-                "I think that…",
-                "Once upon a time…",
-                "The end",
-                "Good morning"
-              ],
-              "correct": 0
-            },
-            {
-              "q": "'Wake up' signifie :",
-              "choices": [
-                "S'endormir",
-                "Se réveiller",
-                "Manger",
-                "Étudier"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "'Se présenter' inclut typiquement :",
+                  "choices": [
+                    "Name, age, hobbies",
+                    "Uniquement des chiffres",
+                    "Que la météo",
+                    "Rien de personnel"
+                  ],
+                  "correct": 0
+                },
+                {
+                  "q": "Pour exprimer une opinion, on peut dire :",
+                  "choices": [
+                    "I think that…",
+                    "Once upon a time…",
+                    "The end",
+                    "Good morning"
+                  ],
+                  "correct": 0
+                },
+                {
+                  "q": "'Wake up' signifie :",
+                  "choices": [
+                    "S'endormir",
+                    "Se réveiller",
+                    "Manger",
+                    "Étudier"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         },
@@ -941,36 +1109,43 @@
           "id": "an-3",
           "title": "Compréhension : repérer l'essentiel",
           "fiche": "Repérer d'abord les mots-clés (noms propres, chiffres, mots répétés) avant de tout comprendre mot à mot.\n\nLes mots de liaison (but, however, because, so) donnent la logique du texte.\n\nNe pas bloquer sur un mot inconnu : déduire le sens grâce au contexte.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "Face à un mot inconnu, il vaut mieux :",
-              "choices": [
-                "Arrêter la lecture",
-                "Déduire le sens par le contexte",
-                "Traduire mot à mot obligatoirement",
-                "Ignorer tout le texte"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "'However' introduit généralement :",
-              "choices": [
-                "Une addition",
-                "Une opposition",
-                "Une conclusion",
-                "Une question"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Repérer les mots-clés sert à :",
-              "choices": [
-                "Perdre du temps",
-                "Saisir l'essentiel rapidement",
-                "Rien de particulier",
-                "Compliquer la lecture"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "Face à un mot inconnu, il vaut mieux :",
+                  "choices": [
+                    "Arrêter la lecture",
+                    "Déduire le sens par le contexte",
+                    "Traduire mot à mot obligatoirement",
+                    "Ignorer tout le texte"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "'However' introduit généralement :",
+                  "choices": [
+                    "Une addition",
+                    "Une opposition",
+                    "Une conclusion",
+                    "Une question"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Repérer les mots-clés sert à :",
+                  "choices": [
+                    "Perdre du temps",
+                    "Saisir l'essentiel rapidement",
+                    "Rien de particulier",
+                    "Compliquer la lecture"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         }
@@ -984,36 +1159,43 @@
           "id": "ses-1",
           "title": "Qu'est-ce que l'économie ?",
           "fiche": "L'économie étudie comment les individus et les sociétés utilisent des ressources rares pour satisfaire des besoins illimités.\n\nUn agent économique (ménage, entreprise, État) prend des décisions de production, consommation ou épargne.\n\nLe marché met en relation une offre et une demande, qui déterminent un prix.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "La science économique étudie avant tout :",
-              "choices": [
-                "La météo",
-                "L'usage de ressources rares face à des besoins illimités",
-                "Uniquement l'argent des banques",
-                "Les langues"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Un ménage est un exemple de :",
-              "choices": [
-                "Ressource naturelle",
-                "Agent économique",
-                "Marché",
-                "Prix"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Le prix sur un marché résulte de :",
-              "choices": [
-                "La loi uniquement",
-                "La rencontre offre/demande",
-                "Le hasard",
-                "La météo"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "La science économique étudie avant tout :",
+                  "choices": [
+                    "La météo",
+                    "L'usage de ressources rares face à des besoins illimités",
+                    "Uniquement l'argent des banques",
+                    "Les langues"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Un ménage est un exemple de :",
+                  "choices": [
+                    "Ressource naturelle",
+                    "Agent économique",
+                    "Marché",
+                    "Prix"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Le prix sur un marché résulte de :",
+                  "choices": [
+                    "La loi uniquement",
+                    "La rencontre offre/demande",
+                    "Le hasard",
+                    "La météo"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         },
@@ -1021,36 +1203,43 @@
           "id": "ses-2",
           "title": "Ménages : consommation et épargne",
           "fiche": "Le revenu disponible d'un ménage se répartit entre consommation et épargne.\n\nLe pouvoir d'achat mesure la quantité de biens et services qu'un revenu permet d'acheter.\n\nLa consommation dépend du revenu, mais aussi des prix, des habitudes et des préférences.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "Le revenu disponible d'un ménage se partage entre :",
-              "choices": [
-                "Impôts et loisirs uniquement",
-                "Consommation et épargne",
-                "Rien de précis",
-                "Uniquement des dettes"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Le pouvoir d'achat mesure :",
-              "choices": [
-                "Le nombre d'heures travaillées",
-                "Ce que le revenu permet d'acheter",
-                "Le taux d'intérêt",
-                "Le climat économique"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "La consommation dépend notamment :",
-              "choices": [
-                "Uniquement de la météo",
-                "Du revenu et des prix",
-                "De rien du tout",
-                "Que de l'âge"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "Le revenu disponible d'un ménage se partage entre :",
+                  "choices": [
+                    "Impôts et loisirs uniquement",
+                    "Consommation et épargne",
+                    "Rien de précis",
+                    "Uniquement des dettes"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Le pouvoir d'achat mesure :",
+                  "choices": [
+                    "Le nombre d'heures travaillées",
+                    "Ce que le revenu permet d'acheter",
+                    "Le taux d'intérêt",
+                    "Le climat économique"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "La consommation dépend notamment :",
+                  "choices": [
+                    "Uniquement de la météo",
+                    "Du revenu et des prix",
+                    "De rien du tout",
+                    "Que de l'âge"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         }
@@ -1064,36 +1253,43 @@
           "id": "snt-1",
           "title": "Internet et le web",
           "fiche": "Internet est le réseau physique mondial ; le Web est un ensemble de services (dont les sites) qui fonctionne grâce à lui.\n\nUne adresse IP identifie un appareil sur un réseau ; un nom de domaine (ex. site.fr) la rend lisible pour les humains.\n\nLe protocole HTTPS chiffre les échanges entre un navigateur et un site pour les sécuriser.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "Le Web est :",
-              "choices": [
-                "Identique à Internet",
-                "Un ensemble de services utilisant Internet",
-                "Un câble physique",
-                "Un logiciel antivirus"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Un nom de domaine sert à :",
-              "choices": [
-                "Chiffrer les données",
-                "Rendre une adresse IP lisible",
-                "Bloquer un site",
-                "Rien de particulier"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "HTTPS, par rapport à HTTP, ajoute :",
-              "choices": [
-                "De la publicité",
-                "Le chiffrement des échanges",
-                "Une lenteur inutile",
-                "Rien du tout"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "Le Web est :",
+                  "choices": [
+                    "Identique à Internet",
+                    "Un ensemble de services utilisant Internet",
+                    "Un câble physique",
+                    "Un logiciel antivirus"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Un nom de domaine sert à :",
+                  "choices": [
+                    "Chiffrer les données",
+                    "Rendre une adresse IP lisible",
+                    "Bloquer un site",
+                    "Rien de particulier"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "HTTPS, par rapport à HTTP, ajoute :",
+                  "choices": [
+                    "De la publicité",
+                    "Le chiffrement des échanges",
+                    "Une lenteur inutile",
+                    "Rien du tout"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         },
@@ -1101,36 +1297,43 @@
           "id": "snt-2",
           "title": "Données et algorithmes",
           "fiche": "Une donnée est une information brute (nombre, texte, image) qui peut être traitée par un programme.\n\nUn algorithme est une suite finie et précise d'instructions pour résoudre un problème.\n\nLes réseaux sociaux utilisent des algorithmes de recommandation basés sur les données des utilisateurs.",
-          "quiz": [
+          "quizzes": [
             {
-              "q": "Un algorithme est avant tout :",
-              "choices": [
-                "Un type de câble",
-                "Une suite d'instructions pour résoudre un problème",
-                "Une donnée brute",
-                "Un virus informatique"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Une donnée peut être :",
-              "choices": [
-                "Uniquement un nombre",
-                "Un nombre, un texte ou une image",
-                "Toujours secrète",
-                "Rien de concret"
-              ],
-              "correct": 1
-            },
-            {
-              "q": "Les algorithmes de recommandation s'appuient sur :",
-              "choices": [
-                "Le hasard uniquement",
-                "Les données des utilisateurs",
-                "La météo",
-                "Rien de particulier"
-              ],
-              "correct": 1
+              "id": "q1",
+              "label": "Quiz",
+              "difficulty": "moyen",
+              "questions": [
+                {
+                  "q": "Un algorithme est avant tout :",
+                  "choices": [
+                    "Un type de câble",
+                    "Une suite d'instructions pour résoudre un problème",
+                    "Une donnée brute",
+                    "Un virus informatique"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Une donnée peut être :",
+                  "choices": [
+                    "Uniquement un nombre",
+                    "Un nombre, un texte ou une image",
+                    "Toujours secrète",
+                    "Rien de concret"
+                  ],
+                  "correct": 1
+                },
+                {
+                  "q": "Les algorithmes de recommandation s'appuient sur :",
+                  "choices": [
+                    "Le hasard uniquement",
+                    "Les données des utilisateurs",
+                    "La météo",
+                    "Rien de particulier"
+                  ],
+                  "correct": 1
+                }
+              ]
             }
           ]
         }
@@ -1192,6 +1395,138 @@
       "read": true,
       "masteryPct": 0,
       "lastReviewed": 1786827364252
+    },
+    "prepa-1::fiche": {
+      "read": true,
+      "lastReviewed": 1786827364252
+    },
+    "prepa-1::q1": {
+      "best": 75,
+      "lastReviewed": 1786827364252,
+      "history": [
+        {
+          "date": 1786827364252,
+          "score": 75,
+          "total": 100
+        }
+      ]
+    },
+    "prepa-2::fiche": {
+      "read": true,
+      "lastReviewed": 1786827364252
+    },
+    "prepa-2::q1": {
+      "best": 100,
+      "lastReviewed": 1786827364252,
+      "history": [
+        {
+          "date": 1786827364252,
+          "score": 100,
+          "total": 100
+        }
+      ]
+    },
+    "prepa-4::fiche": {
+      "read": true,
+      "lastReviewed": 1786827364252
+    },
+    "prepa-4::q1": {
+      "best": 100,
+      "lastReviewed": 1786827364252,
+      "history": [
+        {
+          "date": 1786827364252,
+          "score": 100,
+          "total": 100
+        }
+      ]
+    },
+    "prepa-5::fiche": {
+      "read": true,
+      "lastReviewed": 1786827364252
+    },
+    "pc-4::fiche": {
+      "read": true,
+      "lastReviewed": 1786827364252
+    },
+    "fr-1::fiche": {
+      "read": true,
+      "lastReviewed": 1786826579907
+    },
+    "fr-1::q1": {
+      "best": 100,
+      "lastReviewed": 1786826579907,
+      "history": [
+        {
+          "date": 1786826579907,
+          "score": 100,
+          "total": 100
+        }
+      ]
+    },
+    "hg-2::fiche": {
+      "read": true,
+      "lastReviewed": 1786826791561
+    },
+    "hg-2::q1": {
+      "best": 100,
+      "lastReviewed": 1786826791561,
+      "history": [
+        {
+          "date": 1786826791561,
+          "score": 100,
+          "total": 100
+        }
+      ]
+    },
+    "an-2::fiche": {
+      "read": true,
+      "lastReviewed": 1786827364252
+    },
+    "an-2::q1": {
+      "best": 100,
+      "lastReviewed": 1786827364252,
+      "history": [
+        {
+          "date": 1786827364252,
+          "score": 100,
+          "total": 100
+        }
+      ]
+    },
+    "an-3::fiche": {
+      "read": true,
+      "lastReviewed": 1786827364252
+    },
+    "snt-1::fiche": {
+      "read": true,
+      "lastReviewed": 1786826997258
+    },
+    "snt-1::q1": {
+      "best": 100,
+      "lastReviewed": 1786826997258,
+      "history": [
+        {
+          "date": 1786826997258,
+          "score": 100,
+          "total": 100
+        }
+      ]
+    },
+    "snt-2::fiche": {
+      "read": true,
+      "lastReviewed": 1786827100436
+    },
+    "snt-2::q1": {
+      "best": 100,
+      "lastReviewed": 1786827100436,
+      "history": [
+        {
+          "date": 1786827100436,
+          "score": 100,
+          "total": 100
+        }
+      ]
     }
   }
 }
