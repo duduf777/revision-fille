@@ -1162,6 +1162,11 @@
       "read": true,
       "masteryPct": 100,
       "lastReviewed": 1786826997258
+    },
+    "snt-2": {
+      "read": true,
+      "masteryPct": 0,
+      "lastReviewed": 1786827054826
     }
   }
 }
