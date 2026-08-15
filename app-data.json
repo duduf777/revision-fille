@@ -1140,13 +1140,13 @@
   "progress": {
     "prepa-1": {
       "read": true,
-      "masteryPct": 100,
-      "lastReviewed": 1786826185626
+      "masteryPct": 75,
+      "lastReviewed": 1786827364252
     },
     "prepa-2": {
       "read": true,
       "masteryPct": 100,
-      "lastReviewed": 1786826418836
+      "lastReviewed": 1786827364252
     },
     "fr-1": {
       "read": true,
@@ -1167,6 +1167,31 @@
       "read": true,
       "masteryPct": 100,
       "lastReviewed": 1786827100436
+    },
+    "an-3": {
+      "read": true,
+      "masteryPct": 0,
+      "lastReviewed": 1786827364252
+    },
+    "pc-4": {
+      "read": true,
+      "masteryPct": 0,
+      "lastReviewed": 1786827364252
+    },
+    "prepa-4": {
+      "read": true,
+      "masteryPct": 100,
+      "lastReviewed": 1786827364252
+    },
+    "an-2": {
+      "read": true,
+      "masteryPct": 100,
+      "lastReviewed": 1786827364252
+    },
+    "prepa-5": {
+      "read": true,
+      "masteryPct": 0,
+      "lastReviewed": 1786827364252
     }
   }
 }
