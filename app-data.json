@@ -1137,5 +1137,11 @@
       ]
     }
   ],
-  "progress": {}
+  "progress": {
+    "prepa-1": {
+      "read": true,
+      "masteryPct": 0,
+      "lastReviewed": 1786826146690
+    }
+  }
 }
