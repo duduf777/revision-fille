@@ -19865,6 +19865,17 @@
           "total": 20
         }
       ]
+    },
+    "ma-1::q-facile": {
+      "best": 95,
+      "lastReviewed": 1786870397054,
+      "history": [
+        {
+          "date": 1786870397054,
+          "score": 19,
+          "total": 20
+        }
+      ]
     }
   }
 }
