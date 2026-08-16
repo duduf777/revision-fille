@@ -19880,6 +19880,17 @@
     "ma-2::fiche": {
       "read": true,
       "lastReviewed": 1786870428052
+    },
+    "ma-2::q-facile": {
+      "best": 85,
+      "lastReviewed": 1786870696725,
+      "history": [
+        {
+          "date": 1786870696725,
+          "score": 17,
+          "total": 20
+        }
+      ]
     }
   }
 }
