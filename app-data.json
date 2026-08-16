@@ -19897,8 +19897,8 @@
       "lastReviewed": 1786870428052
     },
     "ma-2::q-facile": {
-      "best": 95,
-      "lastReviewed": 1786884213905,
+      "best": 100,
+      "lastReviewed": 1786884397294,
       "history": [
         {
           "date": 1786870696725,
@@ -19908,6 +19908,11 @@
         {
           "date": 1786884213905,
           "score": 19,
+          "total": 20
+        },
+        {
+          "date": 1786884397294,
+          "score": 20,
           "total": 20
         }
       ]
