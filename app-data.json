@@ -19916,6 +19916,10 @@
           "total": 20
         }
       ]
+    },
+    "fr-3::fiche": {
+      "read": true,
+      "lastReviewed": 1786871279424
     }
   }
 }
