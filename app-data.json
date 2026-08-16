@@ -19854,6 +19854,17 @@
     "pc-2::fiche": {
       "read": true,
       "lastReviewed": 1786869522758
+    },
+    "pc-1::q-moyen": {
+      "best": 75,
+      "lastReviewed": 1786869766528,
+      "history": [
+        {
+          "date": 1786869766528,
+          "score": 15,
+          "total": 20
+        }
+      ]
     }
   }
 }
