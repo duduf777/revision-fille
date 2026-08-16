@@ -19946,6 +19946,17 @@
           "total": 20
         }
       ]
+    },
+    "an-3::q-facile": {
+      "best": 90,
+      "lastReviewed": 1786872004521,
+      "history": [
+        {
+          "date": 1786872004521,
+          "score": 18,
+          "total": 20
+        }
+      ]
     }
   }
 }
