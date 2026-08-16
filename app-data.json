@@ -19830,12 +19830,17 @@
       "lastReviewed": 1786866255039
     },
     "ma-3::q-facile": {
-      "best": 60,
-      "lastReviewed": 1786866583511,
+      "best": 85,
+      "lastReviewed": 1786870904913,
       "history": [
         {
           "date": 1786866583511,
           "score": 12,
+          "total": 20
+        },
+        {
+          "date": 1786870904913,
+          "score": 17,
           "total": 20
         }
       ]
