@@ -19839,6 +19839,17 @@
           "total": 20
         }
       ]
+    },
+    "pc-1::q-facile": {
+      "best": 100,
+      "lastReviewed": 1786867213858,
+      "history": [
+        {
+          "date": 1786867213858,
+          "score": 20,
+          "total": 20
+        }
+      ]
     }
   }
 }
