@@ -19824,6 +19824,10 @@
           "total": 100
         }
       ]
+    },
+    "ma-3::fiche": {
+      "read": true,
+      "lastReviewed": 1786866255039
     }
   }
 }
