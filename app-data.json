@@ -20042,12 +20042,17 @@
       ]
     },
     "svt-1::q-facile": {
-      "best": 90,
-      "lastReviewed": 1786885619895,
+      "best": 100,
+      "lastReviewed": 1786885726258,
       "history": [
         {
           "date": 1786885619895,
           "score": 18,
+          "total": 20
+        },
+        {
+          "date": 1786885726258,
+          "score": 20,
           "total": 20
         }
       ]
