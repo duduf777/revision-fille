@@ -19866,8 +19866,8 @@
       "lastReviewed": 1786869522758
     },
     "pc-1::q-moyen": {
-      "best": 80,
-      "lastReviewed": 1786884883846,
+      "best": 100,
+      "lastReviewed": 1786885027042,
       "history": [
         {
           "date": 1786869766528,
@@ -19877,6 +19877,11 @@
         {
           "date": 1786884883846,
           "score": 16,
+          "total": 20
+        },
+        {
+          "date": 1786885027042,
+          "score": 20,
           "total": 20
         }
       ]
