@@ -20040,6 +20040,17 @@
           "total": 20
         }
       ]
+    },
+    "svt-1::q-facile": {
+      "best": 90,
+      "lastReviewed": 1786885619895,
+      "history": [
+        {
+          "date": 1786885619895,
+          "score": 18,
+          "total": 20
+        }
+      ]
     }
   }
 }
