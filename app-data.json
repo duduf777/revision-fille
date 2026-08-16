@@ -1539,6 +1539,10 @@
     "ma-1::fiche": {
       "read": true,
       "lastReviewed": 1786863828089
+    },
+    "svt-1::fiche": {
+      "read": true,
+      "lastReviewed": 1786864384030
     }
   }
 }
