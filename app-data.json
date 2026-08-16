@@ -19937,12 +19937,17 @@
       "lastReviewed": 1786871279424
     },
     "fr-3::q-facile": {
-      "best": 90,
-      "lastReviewed": 1786871515643,
+      "best": 95,
+      "lastReviewed": 1786884623547,
       "history": [
         {
           "date": 1786871515643,
           "score": 18,
+          "total": 20
+        },
+        {
+          "date": 1786884623547,
+          "score": 19,
           "total": 20
         }
       ]
