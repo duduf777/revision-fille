@@ -19920,6 +19920,17 @@
     "fr-3::fiche": {
       "read": true,
       "lastReviewed": 1786871279424
+    },
+    "fr-3::q-facile": {
+      "best": 90,
+      "lastReviewed": 1786871515643,
+      "history": [
+        {
+          "date": 1786871515643,
+          "score": 18,
+          "total": 20
+        }
+      ]
     }
   }
 }
