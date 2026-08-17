@@ -20082,12 +20082,17 @@
       "lastReviewed": 1786961131735
     },
     "svt-3::q-facile": {
-      "best": 95,
-      "lastReviewed": 1786961260559,
+      "best": 100,
+      "lastReviewed": 1786961343452,
       "history": [
         {
           "date": 1786961260559,
           "score": 19,
+          "total": 20
+        },
+        {
+          "date": 1786961343452,
+          "score": 20,
           "total": 20
         }
       ]
