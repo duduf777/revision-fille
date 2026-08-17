@@ -9,7 +9,7 @@
           {
             "id": "prepa-1",
             "title": "Grandeurs et unités (rappels collège)",
-            "fiche": "Le système international utilise des unités de base : mètre (m), kilogramme (kg), seconde (s), ampère (A), mole (mol).\n\nLes puissances de 10 permettent d'écrire les très grands ou très petits nombres (notation scientifique).\n\nBien convertir : 1 km = 1000 m, 1 L = 1000 mL, 1 h = 3600 s.",
+            "fiche": "LE SYSTÈME INTERNATIONAL D'UNITÉS\n\nPour mesurer le monde qui nous entoure, les scientifiques du monde entier utilisent les mêmes unités de référence, regroupées dans le système international (SI). Les principales : le mètre (m) pour les longueurs, le kilogramme (kg) pour les masses, la seconde (s) pour le temps, l'ampère (A) pour l'intensité électrique, la mole (mol) pour les quantités de matière (utilisée surtout en chimie).\n\nUtiliser un système commun permet à des scientifiques de pays différents de comparer et vérifier leurs résultats sans confusion — l'inverse a d'ailleurs déjà causé de vraies catastrophes (comme l'échec d'une sonde spatiale de la NASA, perdue en 1999 à cause d'une confusion entre unités métriques et impériales).\n\nCONVERTIR LES UNITÉS\n\nConvertir, c'est passer d'une unité à une autre pour une même grandeur. Il faut toujours convertir toutes les grandeurs dans la même unité avant de les comparer ou de les combiner dans un calcul — sinon, le résultat n'a aucun sens.\n\nQuelques conversions essentielles à connaître par cœur :\n\n1 km = 1000 m (et donc 1 m = 0,001 km)\n1 L = 1000 mL\n1 h = 3600 s (60 min × 60 s)\n1 kg = 1000 g\n\nCes conversions suivent toutes le même principe : multiplier ou diviser par 1000 (ou par 10, 100 selon les préfixes), en décalant la virgule du nombre correspondant.\n\nLES PRÉFIXES DU SYSTÈME INTERNATIONAL\n\nDes préfixes standardisés s'ajoutent devant les unités de base pour exprimer des multiples ou sous-multiples : kilo (×1000), centi (÷100), milli (÷1000). Ils suivent tous des puissances de 10, ce qui rend les conversions cohérentes dans tout le système.\n\nLA NOTATION SCIENTIFIQUE\n\nPour écrire de très grands nombres (la distance Terre-Soleil) ou de très petits nombres (la taille d'un atome) sans une longue suite de zéros, on utilise la notation scientifique : un nombre entre 1 et 10, multiplié par une puissance de 10.\n\nExemple : 45 000 s'écrit 4,5 × 10⁴ ; 0,0032 s'écrit 3,2 × 10⁻³. L'exposant indique directement l'ordre de grandeur du nombre, ce qui facilite grandement les comparaisons entre nombres très différents.\n\nÀ RETENIR\n\nUnités de base du SI : mètre (m), kilogramme (kg), seconde (s), ampère (A), mole (mol). Conversions clés : 1 km=1000 m ; 1 L=1000 mL ; 1 h=3600 s. La notation scientifique (a × 10ⁿ, avec 1≤a<10) simplifie l'écriture des très grands ou très petits nombres.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -697,7 +697,7 @@
           {
             "id": "prepa-2",
             "title": "Calcul, fractions et proportionnalité",
-            "fiche": "Une fraction a/b représente une division : a est le numérateur, b le dénominateur (b ≠ 0).\n\nPour additionner deux fractions, il faut le même dénominateur.\n\nLa proportionnalité : deux grandeurs sont proportionnelles si l'une est obtenue en multipliant l'autre par un même nombre (coefficient).\n\nLe produit en croix permet de résoudre a/b = c/x.",
+            "fiche": "COMPRENDRE UNE FRACTION\n\nUne fraction a/b représente une division : a (le numérateur, en haut) divisé par b (le dénominateur, en bas, qui ne peut jamais être égal à 0). Elle peut se lire comme 'a parts sur un total de b parts égales'.\n\nToute fraction peut s'écrire sous forme décimale (1/4 = 0,25) et inversement. Une fraction est dite irréductible quand on ne peut plus la simplifier (aucun facteur commun entre numérateur et dénominateur autre que 1).\n\nOPÉRER SUR LES FRACTIONS\n\nPour additionner ou soustraire deux fractions, il faut impérativement qu'elles aient le même dénominateur — sinon on additionnerait des parts de tailles différentes, ce qui n'a pas de sens. Si les dénominateurs diffèrent, on les met d'abord au même dénominateur commun avant de combiner les numérateurs.\n\nExemple : 1/2 + 1/4 = 2/4 + 1/4 = 3/4 (on a transformé 1/2 en 2/4 pour avoir le même dénominateur).\n\nPour multiplier deux fractions, en revanche, pas besoin de dénominateur commun : on multiplie simplement les numérateurs entre eux, et les dénominateurs entre eux (a/b × c/d = ac/bd).\n\nPour diviser par une fraction, on multiplie par son inverse (diviser par a/b revient à multiplier par b/a).\n\nLA PROPORTIONNALITÉ\n\nDeux grandeurs sont dites proportionnelles quand l'une s'obtient toujours en multipliant l'autre par un même nombre fixe, appelé coefficient de proportionnalité. Ce rapport reste constant, quelle que soit la valeur considérée.\n\nExemple typique : le prix total d'articles identiques est proportionnel à leur nombre (si 3 stylos coûtent 6€, chaque stylo coûte 2€, et 5 stylos coûteront 10€).\n\nLE PRODUIT EN CROIX\n\nCette technique permet de résoudre une égalité entre deux fractions, du type a/b = c/x, où x est l'inconnue à trouver. La règle : a × x = b × c (on multiplie 'en croix'), ce qui permet ensuite d'isoler x.\n\nCette même logique s'utilise dans un tableau de proportionnalité (souvent appelée règle de trois) pour calculer une quatrième valeur manquante à partir de trois valeurs connues.\n\nLES POURCENTAGES\n\nUn pourcentage est une fraction particulière, ayant toujours 100 comme dénominateur : x% signifie x/100. Calculer x% d'un nombre N revient à faire N × x/100.\n\nExemple : 20% de 150 = 150 × 20/100 = 30.\n\nÀ RETENIR\n\nFraction a/b = division a÷b, b≠0. Addition/soustraction de fractions : même dénominateur obligatoire. Multiplication : numérateurs entre eux, dénominateurs entre eux. Proportionnalité : rapport constant entre deux grandeurs. Produit en croix (a/b=c/x → ax=bc) résout une égalité de fractions.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -1385,7 +1385,7 @@
           {
             "id": "prepa-3",
             "title": "Grammaire et conjugaison de base",
-            "fiche": "Le sujet commande l'accord du verbe (nombre et personne).\n\nLes temps de base : présent, imparfait, passé composé, futur simple.\n\nL'accord du participe passé avec être se fait avec le sujet ; avec avoir, il ne s'accorde en général pas avec le sujet.\n\nUne phrase simple contient au moins un sujet et un verbe conjugué.",
+            "fiche": "LE SUJET COMMANDE LE VERBE\n\nEn français, le verbe s'accorde toujours avec son sujet, en nombre (singulier/pluriel) et en personne (je, tu, il/elle, nous, vous, ils/elles). Cette règle reste vraie même quand le sujet est éloigné du verbe par d'autres mots, ou placé après lui (inversion).\n\nExemple piège : 'Les enfants qui jouent dans le jardin rentrent.' Le verbe 'rentrent' s'accorde bien avec 'les enfants' (le sujet réel), même si 'jardin' est juste avant.\n\nLES QUATRE TEMPS DE BASE\n\nLe présent décrit une action qui se déroule maintenant, ou un fait général/habituel ('je mange', 'l'eau bout à 100°C').\n\nL'imparfait décrit une action passée non terminée, une habitude ou une description dans le passé ('je mangeais tous les jours à midi', 'il faisait beau').\n\nLe passé composé décrit une action passée ponctuelle et achevée. Il se forme avec un auxiliaire (avoir ou être) conjugué au présent, suivi du participe passé du verbe ('j'ai mangé', 'elle est partie').\n\nLe futur simple annonce une action à venir ('je mangerai demain').\n\nDans un récit, l'imparfait sert souvent à poser le décor (l'arrière-plan, les habitudes, les descriptions), tandis que le passé composé fait avancer l'action (les événements ponctuels).\n\nL'ACCORD DU PARTICIPE PASSÉ\n\nC'est l'une des règles les plus délicates du français, car elle diffère selon l'auxiliaire utilisé.\n\nAvec être, le participe passé s'accorde toujours en genre et en nombre avec le sujet ('elle est partie', 'ils sont partis').\n\nAvec avoir, le participe passé ne s'accorde en général pas avec le sujet ('elle a mangé', pas 'mangée'). Il existe cependant une exception importante : si le complément d'objet direct (COD) est placé avant le verbe, l'accord se fait avec ce COD ('les pommes que j'ai mangées' — 'que' représente 'les pommes', placé avant 'mangées', d'où l'accord).\n\nLA PHRASE SIMPLE\n\nUne phrase simple contient au minimum un sujet et un verbe conjugué — c'est le noyau incompressible de toute phrase française. Tout le reste (compléments, adjectifs...) vient enrichir cette base, mais n'est pas strictement indispensable pour qu'une phrase soit grammaticalement complète.\n\nÀ RETENIR\n\nLe verbe s'accorde toujours avec son sujet, même éloigné ou inversé. Présent (maintenant/habitude), imparfait (passé non terminé/description), passé composé (action passée achevée), futur simple (à venir). Participe passé avec être : accord avec le sujet. Avec avoir : pas d'accord (sauf COD placé avant). Une phrase simple = sujet + verbe conjugué, au minimum.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -2051,7 +2051,7 @@
           {
             "id": "prepa-4",
             "title": "Repères histoire-géo essentiels",
-            "fiche": "Une frise chronologique situe des événements dans l'ordre du temps, à une échelle donnée.\n\nUne carte utilise une légende pour expliquer les symboles et couleurs utilisés.\n\nLes grandes périodes historiques : Antiquité, Moyen Âge, Temps modernes, Époque contemporaine.",
+            "fiche": "SE REPÉRER DANS LE TEMPS : LA FRISE CHRONOLOGIQUE\n\nUne frise chronologique est une ligne représentant le temps, sur laquelle on place des événements dans leur ordre d'apparition, selon une échelle régulière (chaque centimètre pouvant représenter, par exemple, 10 ans ou 100 ans selon la période étudiée). Elle permet de visualiser d'un coup d'œil l'enchaînement des faits, leur durée respective, et les liens chronologiques entre eux.\n\nDeux repères de durée à connaître : un siècle représente 100 ans, un millénaire représente 1000 ans.\n\nLES QUATRE GRANDES PÉRIODES HISTORIQUES\n\nL'histoire (depuis l'apparition de l'écriture, qui marque la fin de la Préhistoire) se découpe traditionnellement en quatre grandes périodes successives.\n\nL'Antiquité, jusqu'à la chute de l'Empire romain d'Occident (476 après J.-C.).\n\nLe Moyen Âge, de 476 à 1492 (découverte de l'Amérique).\n\nLes Temps modernes, de 1492 à 1789 (Révolution française).\n\nL'Époque contemporaine, depuis 1789 jusqu'à aujourd'hui.\n\nSE REPÉRER DANS L'ESPACE : LIRE UNE CARTE\n\nUne carte représente un espace géographique de façon simplifiée, à l'aide de symboles et de couleurs. Pour la comprendre correctement, trois éléments sont indispensables :\n\nLa légende explique ce que signifie chaque couleur et chaque symbole utilisés sur la carte — sans elle, impossible d'interpréter correctement les informations représentées.\n\nL'échelle indique le rapport entre les distances mesurées sur la carte et les distances réelles sur le terrain.\n\nL'orientation, généralement signalée par une flèche pointant vers le nord, permet de situer correctement la carte par rapport aux points cardinaux.\n\nQUELQUES REPÈRES GÉOGRAPHIQUES DE BASE\n\nLa Terre est composée de continents (grandes étendues de terre : Europe, Afrique, Asie, Amérique, Océanie, Antarctique) séparés par des océans (vastes étendues d'eau salée : Atlantique, Pacifique, Indien...).\n\nUne capitale est généralement la ville où siègent les institutions politiques d'un pays.\n\nÀ RETENIR\n\nUne frise chronologique situe les événements dans le temps selon une échelle donnée. Les 4 grandes périodes : Antiquité (jusqu'à 476) → Moyen Âge (476-1492) → Temps modernes (1492-1789) → Époque contemporaine (depuis 1789). Une carte se lit avec sa légende, son échelle et son orientation.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -2629,7 +2629,7 @@
           {
             "id": "prepa-5",
             "title": "Anglais : bases essentielles",
-            "fiche": "Le present simple sert à décrire une habitude ou un fait général (I play, she plays).\n\nLe present continuous décrit une action en cours (I am playing).\n\nLes mots interrogatifs de base : who, what, where, when, why, how.",
+            "fiche": "PRESENT SIMPLE : HABITUDE ET FAIT GÉNÉRAL\n\nLe present simple s'utilise pour décrire une habitude régulière ou un fait toujours vrai en général — pas forcément en train de se passer maintenant. 'I play football' (je joue au football, en général, régulièrement). À la troisième personne du singulier (he/she/it), on ajoute systématiquement un -s au verbe : 'she plays'.\n\nDes mots-indices signalent souvent ce temps : always, usually, often, every day...\n\nPRESENT CONTINUOUS : ACTION EN COURS\n\nLe present continuous décrit une action en train de se dérouler précisément au moment où l'on parle. Il se forme avec be (am/is/are, selon le sujet) suivi du verbe + -ing. 'I am playing' (je suis en train de jouer, là, maintenant).\n\nDes mots-indices typiques : right now, at the moment, look!...\n\nLa bonne question à se poser pour choisir entre les deux : est-ce une habitude générale (present simple) ou une action précisément en cours (present continuous) ?\n\nLES MOTS INTERROGATIFS DE BASE\n\nCes mots permettent de poser des questions ciblées, chacun avec un rôle précis :\n\nWho ? (qui ?) interroge sur une personne : 'Who is your teacher?'\n\nWhat ? (quoi/que/quel ?) interroge sur une chose ou une idée : 'What is your name?'\n\nWhere ? (où ?) interroge sur un lieu : 'Where do you live?'\n\nWhen ? (quand ?) interroge sur un moment : 'When is your birthday?'\n\nWhy ? (pourquoi ?) interroge sur une raison : 'Why are you late?'\n\nHow ? (comment ?) interroge sur une manière : 'How are you?' (littéralement 'comment vas-tu', une formule de politesse courante).\n\nLA STRUCTURE D'UNE QUESTION\n\nContrairement au français, une question en anglais nécessite souvent une inversion ou l'ajout d'un auxiliaire comme 'do/does'. Exemple : 'Do you like tea?' (est-ce que tu aimes le thé ?), où 'do' se place en tout début de phrase pour signaler la question.\n\nÀ RETENIR\n\nPresent simple = habitude/fait général (+s à la 3e pers. du sing.). Present continuous = action en cours (be + verbe-ing). Mots interrogatifs : who (qui), what (quoi), where (où), when (quand), why (pourquoi), how (comment). Les questions nécessitent souvent une inversion ou l'auxiliaire do/does.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -3306,7 +3306,7 @@
           {
             "id": "prepa-6",
             "title": "SVT : le vivant, notions de base",
-            "fiche": "Un être vivant naît, grandit, se reproduit et meurt.\n\nLa cellule est l'unité de base du vivant : tous les êtres vivants sont constitués d'une ou plusieurs cellules.\n\nLa classification range les espèces selon leurs points communs (attributs partagés).",
+            "fiche": "LES CARACTÉRISTIQUES DU VIVANT\n\nTous les êtres vivants, aussi différents soient-ils (une bactérie, un chêne, un être humain), partagent des caractéristiques communes qui les distinguent de la matière inerte : ils naissent, grandissent, se nourrissent, réagissent à leur environnement, se reproduisent, puis meurent. Ce cycle de vie est universel dans le monde vivant.\n\nLA CELLULE : UNITÉ DE BASE DU VIVANT\n\nTous les êtres vivants sont constitués d'une ou plusieurs cellules — c'est le principe fondateur de la théorie cellulaire, l'un des grands piliers de la biologie.\n\nUn organisme unicellulaire (comme une bactérie) est constitué d'une seule cellule. Un organisme pluricellulaire (comme un animal ou une plante) en est constitué de très nombreuses, chacune spécialisée dans une fonction précise, organisées en tissus puis en organes.\n\nChaque cellule contient de l'ADN, le support de l'information génétique, qui porte les instructions définissant les caractéristiques de l'individu et se transmet de génération en génération lors de la reproduction.\n\nCLASSER LES ESPÈCES\n\nAvec des millions d'espèces vivantes recensées, les scientifiques ont besoin d'un système pour les organiser : c'est la classification. Elle range les espèces en groupes selon leurs points communs (attributs partagés), du plus large (le règne) au plus précis (l'espèce elle-même).\n\nLes grands groupes du vivant incluent notamment les animaux, les végétaux, les champignons et les micro-organismes (bactéries...), chacun avec ses propres caractéristiques distinctives.\n\nParmi les animaux, une distinction essentielle sépare les vertébrés (qui possèdent une colonne vertébrale : mammifères, oiseaux, poissons, reptiles, amphibiens) des invertébrés (sans colonne vertébrale : insectes, mollusques, crustacés...).\n\nLA REPRODUCTION\n\nLa reproduction assure la continuité d'une espèce à travers les générations. Elle peut être sexuée (fusion de deux cellules reproductrices venues de deux parents, donnant une descendance génétiquement unique) ou asexuée (un seul parent produit des descendants génétiquement identiques à lui-même, comme certaines plantes qui se multiplient par bouturage).\n\nÀ RETENIR\n\nUn être vivant naît, grandit, se nourrit, se reproduit et meurt. La cellule est l'unité de base de tout être vivant (unicellulaire ou pluricellulaire), contenant l'ADN. La classification range les espèces selon leurs attributs partagés (règnes, vertébrés/invertébrés...). La reproduction peut être sexuée ou asexuée.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -3890,7 +3890,7 @@
           {
             "id": "pc-1",
             "title": "Constitution de la matière",
-            "fiche": "La matière est constituée d'atomes, eux-mêmes formés d'un noyau (protons + neutrons) entouré d'électrons.\n\nLe tableau périodique classe les éléments par numéro atomique Z (nombre de protons).\n\nUne molécule est un assemblage d'atomes liés par des liaisons covalentes (mise en commun d'électrons).\n\nÀ retenir : symbole, numéro atomique Z, nombre de masse A. Un ion se forme par perte ou gain d'électrons.",
+            "fiche": "L'ATOME, BRIQUE DE BASE\n\nToute la matière qui nous entoure — l'air, l'eau, ton téléphone, ton propre corps — est faite d'atomes. Un atome est minuscule (environ un dix-milliardième de mètre) mais il a une structure précise : au centre se trouve un noyau, autour duquel se déplacent des électrons.\n\nLe noyau contient deux types de particules : les protons (charge positive) et les neutrons (aucune charge, dits neutres). Les électrons, eux, portent une charge négative et occupent l'espace autour du noyau — un espace bien plus grand que le noyau lui-même : si le noyau était une balle de tennis au centre d'un stade, les électrons tourneraient tout autour des gradins.\n\nDans un atome neutre (non chargé), le nombre d'électrons est toujours égal au nombre de protons, car les charges positives et négatives s'équilibrent exactement.\n\nIDENTIFIER UN ATOME : Z ET A\n\nChaque élément chimique (hydrogène, carbone, oxygène...) est défini par son numéro atomique Z, qui correspond au nombre de protons dans le noyau. C'est la carte d'identité de l'élément : deux atomes ayant le même Z sont le même élément.\n\nLe nombre de masse A additionne les protons et les neutrons du noyau (A = Z + nombre de neutrons). On note un atome sous la forme ᴬZX, où X est le symbole chimique (ex : ¹²₆C pour le carbone).\n\nLE TABLEAU PÉRIODIQUE\n\nTous les éléments connus sont rangés dans le tableau périodique, par numéro atomique Z croissant. Les lignes horizontales s'appellent des périodes, les colonnes verticales des familles (ou groupes) : les éléments d'une même famille ont des propriétés chimiques similaires, car ils ont un nombre identique d'électrons sur leur couche externe.\n\nLES ISOTOPES\n\nDeux atomes du même élément (même Z) peuvent avoir un nombre de neutrons différent : ce sont des isotopes. Ils ont donc le même comportement chimique (même Z) mais une masse différente (A différent). Le carbone 12 et le carbone 14, par exemple, sont deux isotopes du carbone.\n\nLES MOLÉCULES ET LES LIAISONS\n\nLes atomes se lient entre eux pour former des molécules. Dans une liaison covalente, deux atomes mettent en commun une paire d'électrons — un peu comme s'ils se tenaient la main avec des électrons partagés. C'est ainsi que se forme l'eau (H₂O : deux atomes d'hydrogène liés à un atome d'oxygène) ou le dioxygène (O₂ : deux atomes d'oxygène liés entre eux).\n\nLES IONS\n\nUn atome peut perdre ou gagner des électrons — il devient alors un ion, chargé électriquement puisque l'équilibre protons/électrons est rompu. S'il perd des électrons, il devient un cation (charge positive, notée +). S'il en gagne, il devient un anion (charge négative, notée -). Le sel de cuisine (NaCl) est formé d'ions sodium (Na⁺) et d'ions chlorure (Cl⁻), attirés l'un vers l'autre par une liaison ionique.\n\nÀ RETENIR\n\nAtome = noyau (protons + neutrons) + électrons. Z = nombre de protons (identité de l'élément). A = protons + neutrons. Isotopes = même Z, A différent. Liaison covalente = électrons partagés (molécules). Ion = atome ayant perdu (cation) ou gagné (anion) des électrons.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -4578,7 +4578,7 @@
           {
             "id": "pc-2",
             "title": "Mouvement et interactions",
-            "fiche": "Le mouvement d'un objet dépend du référentiel choisi : il est relatif.\n\nLa vitesse moyenne v = distance / durée (m/s).\n\nPrincipe d'inertie : si les forces qui s'exercent sur un objet se compensent, il reste au repos ou garde une vitesse constante en ligne droite.\n\nUne force modifie la vitesse et/ou la trajectoire d'un objet. Elle se représente par un vecteur (direction, sens, valeur).",
+            "fiche": "LE MOUVEMENT EST RELATIF\n\nEs-tu immobile en ce moment ? Ça dépend ! Si tu es assis dans un train qui roule, tu es immobile par rapport au train, mais en mouvement par rapport aux rails. C'est le principe même du mouvement : il n'existe pas dans l'absolu, il faut toujours préciser par rapport à quoi on l'observe. Ce point de référence s'appelle un référentiel (souvent le référentiel terrestre, la Terre considérée comme fixe).\n\nDÉCRIRE UN MOUVEMENT\n\nLa trajectoire est la ligne dessinée par l'objet en mouvement : elle peut être rectiligne (une droite), circulaire (un cercle) ou plus complexe.\n\nLa vitesse moyenne indique la rapidité du déplacement : v = d / t, où d est la distance parcourue et t la durée du trajet. En unités du système international, elle s'exprime en mètres par seconde (m/s), mais on la rencontre souvent en km/h dans la vie courante.\n\nUn mouvement est dit uniforme quand la vitesse reste constante tout au long du trajet.\n\nLES FORCES\n\nUne force est une action qui peut modifier le mouvement d'un objet : le faire accélérer, ralentir, changer de direction, ou même le déformer. Elle se représente par un vecteur, c'est-à-dire une flèche caractérisée par trois éléments : sa direction (la droite le long de laquelle elle agit), son sens (vers où elle pousse), et sa valeur (son intensité, exprimée en newtons, symbole N).\n\nLe poids est un exemple de force très courant : c'est l'attraction exercée par la Terre sur tout objet, toujours dirigée vers le bas.\n\nLE PRINCIPE D'INERTIE\n\nC'est l'idée centrale de ce chapitre : quand les forces qui s'exercent sur un objet se compensent exactement (leur effet global est nul), l'objet garde son état de mouvement — s'il était immobile, il le reste ; s'il se déplaçait en ligne droite à vitesse constante, il continue ainsi.\n\nAutrement dit, il ne faut pas de force pour maintenir un mouvement rectiligne uniforme — il en faut une pour le changer. C'est contre-intuitif car dans la vie de tous les jours, les frottements (avec l'air, le sol...) freinent sans cesse les objets, donnant l'impression qu'il faut 'pousser' en permanence pour qu'un objet continue d'avancer.\n\nQUAND LES FORCES NE SE COMPENSENT PAS\n\nSi la résultante des forces (leur somme) n'est pas nulle, le mouvement de l'objet change : il accélère, ralentit, ou change de trajectoire. Plus la résultante est grande, plus le changement est important.\n\nÀ RETENIR\n\nLe mouvement se définit toujours par rapport à un référentiel. v = d/t (en m/s). Une force est un vecteur (direction, sens, valeur), unité : le newton (N). Principe d'inertie : forces compensées → l'objet garde son état de mouvement (repos ou ligne droite à vitesse constante).",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -5264,7 +5264,7 @@
           {
             "id": "pc-3",
             "title": "Ondes et signaux",
-            "fiche": "Une onde transporte de l'énergie sans transporter de matière.\n\nLa lumière se propage en ligne droite et très vite (≈300 000 km/s dans le vide).\n\nLe son a besoin d'un milieu matériel pour se propager (il ne se propage pas dans le vide).\n\nLa fréquence (Hz) et la période (s) sont liées : période = 1 / fréquence.",
+            "fiche": "QU'EST-CE QU'UNE ONDE ?\n\nUne onde est une perturbation qui se propage et transporte de l'énergie, sans jamais transporter de matière. Pense à une vague à la surface de l'eau : elle avance, mais un bouchon flottant à la surface ne fait que monter et descendre sur place — il n'est pas emporté par la vague. C'est exactement ça, une onde : de l'énergie qui voyage, pas de la matière.\n\nDEUX GRANDES FAMILLES D'ONDES\n\nLes ondes mécaniques (comme le son ou les vagues) ont besoin d'un milieu matériel — solide, liquide ou gazeux — pour se propager, car elles font vibrer les particules de ce milieu. Voilà pourquoi le son ne se propage pas dans le vide de l'espace : sans air, rien ne peut vibrer pour le transporter.\n\nLes ondes électromagnétiques (comme la lumière, les ondes radio, les rayons X) n'ont besoin d'aucun support matériel : elles se propagent aussi bien dans l'air que dans le vide. C'est pour ça que la lumière du Soleil nous parvient à travers le vide spatial.\n\nLA LUMIÈRE\n\nLa lumière se déplace en ligne droite (tant qu'elle ne rencontre pas d'obstacle) et extrêmement vite : environ 300 000 km par seconde dans le vide — assez pour faire le tour de la Terre 7 fois en une seule seconde. C'est la vitesse la plus élevée connue dans l'univers.\n\nLE SON\n\nLe son résulte de vibrations qui se propagent de proche en proche dans un milieu matériel, beaucoup plus lentement que la lumière (environ 340 m/s dans l'air, soit plus d'un million de fois plus lent que la lumière). C'est pourquoi on voit un éclair avant d'entendre le tonnerre : la lumière de l'éclair nous parvient presque instantanément, le son met plusieurs secondes.\n\nPÉRIODE ET FRÉQUENCE\n\nUne onde périodique se répète régulièrement dans le temps. La période (notée T, en secondes) est la durée d'un cycle complet de cette répétition. La fréquence (notée f, en hertz, symbole Hz) indique combien de cycles se produisent chaque seconde.\n\nCes deux grandeurs sont liées par la relation T = 1/f (et donc f = 1/T) : plus la fréquence est élevée, plus la période est courte, et inversement.\n\nPour le son, la fréquence détermine la hauteur perçue : un son grave a une fréquence basse, un son aigu une fréquence élevée. L'oreille humaine perçoit généralement les sons entre 20 Hz et 20 000 Hz.\n\nÀ RETENIR\n\nUne onde transporte de l'énergie, jamais de matière. Onde mécanique (son) : nécessite un milieu matériel. Onde électromagnétique (lumière) : se propage aussi dans le vide. Vitesse de la lumière ≈ 300 000 km/s ; vitesse du son ≈ 340 m/s dans l'air. T (période, en s) et f (fréquence, en Hz) sont liées par T = 1/f.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -5952,7 +5952,7 @@
           {
             "id": "pc-4",
             "title": "Énergie",
-            "fiche": "L'énergie existe sous plusieurs formes : cinétique (mouvement), potentielle (position), thermique, chimique, électrique.\n\nL'énergie se conserve : elle ne disparaît jamais, elle se transforme ou se transfère.\n\nUn transfert thermique se fait toujours du corps chaud vers le corps froid.\n\nUnité d'énergie : le joule (J).",
+            "fiche": "QU'EST-CE QUE L'ÉNERGIE ?\n\nL'énergie est ce qui permet de faire fonctionner, chauffer, éclairer ou déplacer quelque chose. On ne la voit jamais directement, mais on observe ses effets partout : un moteur qui tourne, une ampoule qui brille, un radiateur qui chauffe. Elle se mesure en joules (symbole J).\n\nLES DIFFÉRENTES FORMES D'ÉNERGIE\n\nL'énergie cinétique est liée au mouvement : plus un objet est rapide et lourd, plus son énergie cinétique est grande. Une voiture qui roule ou une balle lancée en possèdent.\n\nL'énergie potentielle est liée à la position d'un objet, notamment sa hauteur : un objet en altitude (un livre en haut d'une étagère, l'eau retenue par un barrage) a de l'énergie potentielle de pesanteur, prête à se transformer en mouvement s'il tombe.\n\nL'énergie thermique correspond à l'agitation des particules d'un corps : plus un corps est chaud, plus ses particules s'agitent, plus il contient d'énergie thermique.\n\nL'énergie chimique est stockée dans les liaisons entre atomes des molécules — dans les aliments, le pétrole, les piles. Elle se libère lors de réactions chimiques (combustion, digestion...).\n\nL'énergie électrique est celle transportée par le courant électrique dans les circuits, les câbles et le réseau.\n\nLA CONSERVATION DE L'ÉNERGIE\n\nC'est le principe fondamental de ce chapitre : l'énergie ne disparaît jamais et ne se crée jamais de rien — elle se transforme d'une forme à une autre, ou se transfère d'un objet à un autre, mais sa quantité totale reste toujours la même.\n\nExemple : quand un objet tombe, son énergie potentielle (liée à la hauteur) diminue progressivement tandis que son énergie cinétique (liée à la vitesse) augmente d'autant — l'énergie ne s'est pas volatilisée, elle a juste changé de forme.\n\nAutre exemple : une centrale électrique transforme l'énergie chimique du combustible (ou l'énergie cinétique du vent, de l'eau...) en chaleur, puis en mouvement mécanique, puis finalement en énergie électrique.\n\nLES TRANSFERTS THERMIQUES\n\nLa chaleur se transmet toujours spontanément du corps le plus chaud vers le corps le plus froid — jamais l'inverse sans apport extérieur (c'est pour cette raison qu'un réfrigérateur, qui fait l'inverse, a besoin d'électricité pour fonctionner). Ce transfert peut se faire par conduction (contact direct), convection (déplacement de matière, comme l'air chaud qui monte) ou rayonnement (comme la chaleur du Soleil qui traverse le vide).\n\nL'ÉNERGIE 'PERDUE'\n\nDans toute transformation d'énergie réelle, une partie se disperse généralement sous forme de chaleur non utilisée (frottements, résistance électrique...). Cette énergie n'a pas disparu — elle s'est juste dispersée dans l'environnement sous une forme moins facilement récupérable. C'est pour cette raison qu'aucun appareil n'atteint un rendement de 100%.\n\nÀ RETENIR\n\nÉnergie = capacité à produire un effet (mouvement, chaleur, lumière...), unité : le joule (J). Formes principales : cinétique, potentielle, thermique, chimique, électrique. L'énergie totale se conserve toujours : elle se transforme ou se transfère, mais ne disparaît jamais. La chaleur passe toujours du corps chaud vers le corps froid.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -6646,7 +6646,7 @@
           {
             "id": "ma-1",
             "title": "Nombres et calculs",
-            "fiche": "Ensembles de nombres : entiers naturels (ℕ), relatifs (ℤ), décimaux (𝔻), rationnels (ℚ), réels (ℝ).\n\nPriorités opératoires : parenthèses, puis puissances, puis multiplications/divisions, puis additions/soustractions.\n\nUn nombre relatif négatif multiplié par un négatif donne un positif ; par un positif, un négatif.\n\nRacine carrée : √a n'existe (dans ℝ) que si a ≥ 0.",
+            "fiche": "LES ENSEMBLES DE NOMBRES\n\nLes mathématiques classent les nombres en familles emboîtées les unes dans les autres, comme des poupées russes.\n\nℕ (entiers naturels) : 0, 1, 2, 3... les nombres qu'on utilise pour compter, sans négatif ni virgule.\n\nℤ (entiers relatifs) : ℕ auquel on ajoute les négatifs : ...-2, -1, 0, 1, 2...\n\n𝔻 (décimaux) : les nombres qui s'écrivent avec un nombre fini de chiffres après la virgule (3,25 ; -7,5...).\n\nℚ (rationnels) : tous les nombres qui peuvent s'écrire comme une fraction a/b (avec b≠0), y compris 1/3 = 0,333... qui a une infinité de décimales répétées.\n\nℝ (réels) : la plus grande famille, qui inclut en plus les nombres qu'on ne peut jamais écrire exactement en fraction, comme π ou √2 (dits irrationnels).\n\nChaque famille contient la précédente : ℕ ⊂ ℤ ⊂ 𝔻 ⊂ ℚ ⊂ ℝ.\n\nLES PRIORITÉS OPÉRATOIRES\n\nQuand un calcul mélange plusieurs opérations, il existe un ordre strict à respecter, sinon on n'obtient pas le même résultat :\n1. Ce qui est entre parenthèses en premier\n2. Les puissances (carrés, cubes...)\n3. Les multiplications et divisions (de gauche à droite)\n4. Les additions et soustractions (de gauche à droite)\n\nExemple : 3 + 4 × 2 = 3 + 8 = 11 (et non 7×2=14, car la multiplication passe avant l'addition).\n\nLES RÈGLES DE SIGNES\n\nPour multiplier ou diviser deux nombres relatifs, une règle simple : deux signes identiques donnent un résultat positif, deux signes différents donnent un résultat négatif.\n(+) × (+) = (+) ⋅ (-) × (-) = (+) ⋅ (+) × (-) = (-) ⋅ (-) × (+) = (-)\n\nUne façon de retenir : multiplier par un négatif 'inverse le sens' ; multiplier deux fois par un négatif revient donc au sens initial (d'où le résultat positif).\n\nLA RACINE CARRÉE\n\nLa racine carrée d'un nombre a (notée √a) est le nombre positif qui, multiplié par lui-même, donne a. Par exemple √9 = 3 car 3×3=9.\n\nAttention : dans les nombres réels, la racine carrée d'un nombre négatif n'existe pas, car aucun nombre multiplié par lui-même ne peut donner un résultat négatif (un négatif × un négatif donne toujours un positif !). On dit que √a n'est définie que si a ≥ 0.\n\nÀ RETENIR\n\nℕ ⊂ ℤ ⊂ 𝔻 ⊂ ℚ ⊂ ℝ. Priorités : parenthèses → puissances → × et ÷ → + et -. Deux signes identiques = résultat positif ; signes différents = résultat négatif. √a n'existe (dans ℝ) que si a ≥ 0.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -7334,7 +7334,7 @@
           {
             "id": "ma-2",
             "title": "Expressions algébriques et équations",
-            "fiche": "Développer : k(a + b) = ka + kb. Identités remarquables : (a+b)² = a² + 2ab + b² ; (a-b)² = a² - 2ab + b² ; (a+b)(a-b) = a² - b².\n\nRésoudre une équation : isoler l'inconnue en effectuant la même opération des deux côtés.\n\nUne fonction associe à chaque nombre x un unique nombre f(x).",
+            "fiche": "DÉVELOPPER UNE EXPRESSION\n\nDévelopper, c'est transformer un produit en une somme. La règle de base, dite distributivité, s'écrit k(a+b) = ka + kb : on multiplie k par chaque terme entre parenthèses.\n\nExemple : 3(x+5) = 3x + 15.\n\nLES IDENTITÉS REMARQUABLES\n\nTrois formules reviennent si souvent qu'il vaut mieux les connaître par cœur plutôt que les redémontrer à chaque fois :\n\n(a+b)² = a² + 2ab + b² — le carré d'une somme n'est PAS la somme des carrés (piège classique !). Le terme du milieu (2ab) est souvent oublié.\n\n(a-b)² = a² - 2ab + b² — même logique, avec un signe moins au milieu.\n\n(a+b)(a-b) = a² - b² — le produit d'une somme et d'une différence des mêmes termes donne une différence de carrés. Très utile pour factoriser rapidement (dans l'autre sens).\n\nFACTORISER\n\nFactoriser, c'est l'opération inverse de développer : transformer une somme en produit. On cherche un facteur commun à tous les termes, ou on reconnaît une identité remarquable à l'envers.\n\nExemple : 6x + 9 = 3(2x+3) (3 est facteur commun de 6 et 9). Ou : x²-9 = (x-3)(x+3) (identité a²-b²).\n\nRÉSOUDRE UNE ÉQUATION\n\nRésoudre une équation, c'est trouver la ou les valeurs de l'inconnue (souvent x) qui rendent l'égalité vraie. La méthode : isoler progressivement x en effectuant la même opération des deux côtés du signe = (comme une balance qu'on garde équilibrée).\n\nExemple : 2x + 3 = 11 → on soustrait 3 des deux côtés : 2x = 8 → on divise par 2 des deux côtés : x = 4.\n\nPour une équation du second degré (avec un terme en x²), on peut souvent factoriser puis utiliser la règle : un produit de facteurs est nul si (et seulement si) au moins un des facteurs est nul.\n\nLES FONCTIONS\n\nUne fonction est une sorte de machine mathématique : elle prend un nombre x en entrée et renvoie un unique nombre f(x) en sortie, calculé selon une règle précise. On note généralement f(x) = ... pour définir cette règle.\n\nExemple : si f(x) = 2x+1, alors f(3) = 2×3+1 = 7. Chaque valeur de x donne toujours la même image f(x) — jamais deux résultats différents pour un même x.\n\nUne fonction de la forme f(x) = ax + b s'appelle une fonction affine : sa représentation graphique est une droite.\n\nÀ RETENIR\n\nDévelopper : k(a+b) = ka+kb. Identités : (a+b)²=a²+2ab+b² ; (a-b)²=a²-2ab+b² ; (a+b)(a-b)=a²-b². Résoudre une équation = isoler x en effectuant la même opération des deux côtés. Une fonction associe à chaque x une unique valeur f(x).",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -8022,7 +8022,7 @@
           {
             "id": "ma-3",
             "title": "Géométrie et repérage",
-            "fiche": "Dans un repère (O, I, J), un point est repéré par ses coordonnées (x ; y).\n\nThéorème de Pythagore (triangle rectangle) : le carré de l'hypoténuse = somme des carrés des deux autres côtés.\n\nThéorème de Thalès : dans une configuration de triangles emboîtés avec droites parallèles, les longueurs sont proportionnelles.",
+            "fiche": "SE REPÉRER DANS UN PLAN\n\nUn repère (O, I, J) permet de situer n'importe quel point du plan à l'aide de deux nombres : ses coordonnées (x ; y). O est l'origine (le point de départ), x l'abscisse (position horizontale), y l'ordonnée (position verticale).\n\nLa distance entre deux points A(x₁;y₁) et B(x₂;y₂) se calcule avec la formule AB = √((x₂-x₁)² + (y₂-y₁)²) — qui n'est autre que le théorème de Pythagore appliqué au triangle rectangle formé par les écarts en x et en y.\n\nLE THÉORÈME DE PYTHAGORE\n\nDans un triangle rectangle, il existe une relation fixe entre les longueurs des trois côtés : le carré de l'hypoténuse (le côté opposé à l'angle droit, toujours le plus long) est égal à la somme des carrés des deux autres côtés.\n\nSi on note c l'hypoténuse et a, b les deux autres côtés : c² = a² + b².\n\nExemple : un triangle rectangle a des côtés de 3 et 4. L'hypoténuse vaut √(3²+4²) = √(9+16) = √25 = 5.\n\nCe théorème fonctionne aussi à l'envers (réciproque) : si l'on vérifie que c² = a² + b² pour un triangle donné, alors on peut affirmer qu'il est rectangle.\n\nLE THÉORÈME DE THALÈS\n\nCe théorème s'applique dans une configuration précise : deux droites sécantes (qui se croisent) coupées par deux droites parallèles, formant deux triangles emboîtés l'un dans l'autre (comme des poupées russes).\n\nDans cette configuration, les longueurs des côtés correspondants sont proportionnelles : elles suivent toutes le même rapport (coefficient d'agrandissement ou de réduction).\n\nConcrètement, Thalès permet de calculer une longueur manquante dès qu'on connaît les trois autres dans cette configuration de triangles emboîtés, via une égalité de rapports (comme un produit en croix).\n\nFIGURES ET PROPRIÉTÉS DE BASE\n\nUn triangle équilatéral a ses trois côtés égaux ; un triangle isocèle en a au moins deux égaux. La somme des angles d'un triangle vaut toujours 180°, quelle que soit sa forme.\n\nUn carré a 4 côtés égaux et 4 angles droits ; son aire se calcule par côté × côté, son périmètre par 4 × côté.\n\nL'aire d'un rectangle est longueur × largeur ; celle d'un triangle est (base × hauteur) / 2 ; celle d'un cercle est π × rayon².\n\nÀ RETENIR\n\nUn point s'écrit (x ; y) dans un repère. Pythagore (triangle rectangle) : hypoténuse² = côté1² + côté2². Thalès (triangles emboîtés + parallèles) : les longueurs sont proportionnelles. Aire d'un triangle = (base × hauteur)/2 ; aire d'un cercle = π × rayon².",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -8716,7 +8716,7 @@
           {
             "id": "fr-1",
             "title": "Grammaire et orthographe essentielles",
-            "fiche": "Nature des mots : nom, verbe, adjectif, adverbe, déterminant, pronom, préposition, conjonction.\n\nFonction dans la phrase : sujet, COD, COI, complément circonstanciel, attribut du sujet.\n\nAccord du verbe avec le sujet même quand il est éloigné ou inversé.\n\nHomophones à ne pas confondre : a/à, ou/où, ce/se, ces/ses/c'est.",
+            "fiche": "LA NATURE DES MOTS\n\nChaque mot d'une phrase appartient à une catégorie grammaticale, appelée sa nature. Elle ne change jamais, quel que soit son rôle dans la phrase : 'chat' est toujours un nom, où qu'il se trouve.\n\nLe nom désigne une personne, un animal, une chose ou une idée. Le verbe exprime une action ou un état. L'adjectif qualificatif décrit un nom. L'adverbe modifie un verbe, un adjectif ou un autre adverbe (rapidement, très, souvent). Le déterminant précède le nom (le, un, ces, mon...). Le pronom remplace un nom déjà cité (il, elle, cela, qui...). La préposition introduit un complément (à, de, sur, avec...). La conjonction relie deux mots ou deux groupes (et, mais, car, que...).\n\nLA FONCTION DANS LA PHRASE\n\nContrairement à la nature, la fonction d'un mot ou d'un groupe de mots change selon son rôle dans la phrase précise où il apparaît.\n\nLe sujet fait (ou subit) l'action du verbe. Le COD (complément d'objet direct) subit directement l'action, sans préposition : 'Il mange une pomme' (une pomme = COD). Le COI (complément d'objet indirect) est relié au verbe par une préposition : 'Il parle à Paul' (à Paul = COI). Le complément circonstanciel précise les circonstances (lieu, temps, manière...) de l'action. L'attribut du sujet, après un verbe d'état comme 'être', qualifie le sujet : 'Elle est heureuse' (heureuse = attribut du sujet).\n\nL'ACCORD DU VERBE AVEC SON SUJET\n\nLe verbe s'accorde toujours en nombre et en personne avec son sujet — même quand celui-ci est éloigné du verbe (par une proposition intercalée) ou inversé (placé après le verbe).\n\nExemple piège : 'Les enfants qui jouent dehors rentrent.' Le verbe 'rentrent' s'accorde avec 'les enfants' (le vrai sujet), pas avec 'dehors' qui est juste avant lui.\n\nLES HOMOPHONES COURANTS\n\nDes mots qui se prononcent pareil mais s'écrivent différemment selon leur nature ou leur fonction — une source classique d'erreurs :\n\na / à : 'a' est le verbe avoir (remplaçable par 'avait') ; 'à' est une préposition (remplaçable par une autre préposition comme 'vers').\n\nou / où : 'ou' exprime un choix (remplaçable par 'ou bien') ; 'où' indique un lieu ou un moment.\n\nce / se : 'ce' est un déterminant démonstratif (ce livre) ou un pronom (ce qui compte) ; 'se' introduit un verbe pronominal (il se lave).\n\nces / ses / c'est : 'ces' est un déterminant démonstratif pluriel (ces livres) ; 'ses' est un déterminant possessif pluriel (ses affaires) ; 'c'est' signifie 'cela est' et sert à présenter quelque chose.\n\nÀ RETENIR\n\nLa nature d'un mot ne change jamais ; sa fonction dépend de la phrase. Le verbe s'accorde toujours avec son vrai sujet, même éloigné ou inversé. Pour les homophones, remplace mentalement par un synonyme pour vérifier (a→avait ; à→vers).",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -9400,7 +9400,7 @@
           {
             "id": "fr-2",
             "title": "Lire et analyser un texte",
-            "fiche": "Identifier le genre (roman, théâtre, poésie, texte argumentatif) avant d'analyser.\n\nRepérer le narrateur (interne, externe, omniscient) dans un récit.\n\nUn procédé littéraire (métaphore, comparaison, répétition, antithèse) sert toujours une intention de l'auteur : chercher laquelle.\n\nUne thèse est l'idée défendue ; un argument la justifie ; un exemple l'illustre.",
+            "fiche": "IDENTIFIER LE GENRE\n\nAvant toute analyse, il faut d'abord identifier le genre du texte, car chacun se lit différemment. Le roman raconte une histoire en prose. Le théâtre repose sur des dialogues destinés à être joués, accompagnés de didascalies (indications scéniques). La poésie joue sur le rythme, les sonorités (rimes) et les images, souvent organisée en vers et strophes. Le texte argumentatif défend une thèse à l'aide d'arguments.\n\nLE NARRATEUR ET LE POINT DE VUE\n\nDans un récit, il faut repérer qui raconte l'histoire, et ce qu'il sait.\n\nLe narrateur interne est un personnage de l'histoire, qui raconte souvent en 'je' — on ne connaît alors que sa perception limitée des événements.\n\nLe narrateur externe raconte depuis l'extérieur, sans être un personnage, en rapportant surtout ce qui est observable.\n\nLe narrateur omniscient sait tout : il a accès aux pensées intimes de tous les personnages, comme s'il voyait la scène d'en haut, avec une vision totale.\n\nLES PROCÉDÉS LITTÉRAIRES\n\nUn auteur n'écrit jamais un procédé stylistique par hasard : chaque figure de style sert une intention précise, qu'il faut chercher à comprendre.\n\nLa métaphore assimile directement deux éléments, sans mot de comparaison ('ses yeux étaient deux billes de verre'). La comparaison utilise un outil comme 'comme' ou 'tel que' ('ses yeux brillaient comme des billes'). La répétition insiste sur une idée en la martelant. L'antithèse rapproche deux idées opposées pour créer un contraste frappant. La personnification donne des traits humains à une chose ou un animal.\n\nPour bien analyser un procédé, demande-toi toujours : quel effet cela produit-il sur le lecteur ? Quelle intention de l'auteur cela révèle-t-il ?\n\nTHÈSE, ARGUMENT, EXEMPLE\n\nDans un texte argumentatif, trois notions s'articulent :\n\nLa thèse est l'idée générale que l'auteur défend — son opinion centrale.\n\nL'argument est une raison logique qui justifie la thèse — il répond à la question 'pourquoi devrait-on croire cela ?'\n\nL'exemple illustre concrètement l'argument, en le rendant plus parlant et convaincant, souvent tiré d'un fait réel, d'une expérience ou d'une référence connue.\n\nUn bon paragraphe argumentatif enchaîne généralement ces trois éléments : d'abord l'idée/argument, puis l'exemple qui l'illustre.\n\nÀ RETENIR\n\nIdentifie toujours le genre avant d'analyser. Narrateur : interne (je, vision limitée), externe (extérieur), omniscient (sait tout). Chaque procédé littéraire sert une intention : cherche laquelle. Thèse = idée défendue ; argument = raison logique ; exemple = illustration concrète.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -10077,7 +10077,7 @@
           {
             "id": "fr-3",
             "title": "Écrire un texte argumentatif",
-            "fiche": "Structure de base : introduction (annonce du sujet et du plan), développement (arguments + exemples), conclusion (bilan, ouverture).\n\nUn connecteur logique organise les idées : d'abord/ensuite/enfin, cependant, en effet, par conséquent.\n\nChaque paragraphe développe une seule idée principale.",
+            "fiche": "LA STRUCTURE EN TROIS PARTIES\n\nUn texte argumentatif bien construit suit toujours la même architecture générale, qui guide le lecteur du début à la fin.\n\nL'introduction présente le sujet (souvent avec une accroche qui capte l'attention), pose la problématique (la question à laquelle le texte va répondre), et annonce le plan qui va suivre.\n\nLe développement déploie les arguments un par un, chacun illustré par un exemple concret, organisés selon un plan cohérent (thématique : différents aspects du sujet ; ou dialectique : thèse/antithèse/synthèse).\n\nLa conclusion fait le bilan du raisonnement mené (sans répéter mot pour mot l'introduction) et peut s'ouvrir sur une question ou une réflexion plus large.\n\nLES CONNECTEURS LOGIQUES\n\nCe sont les mots qui articulent les idées entre elles et guident le lecteur dans le raisonnement. Chaque connecteur a un rôle précis :\n\nD'abord, ensuite, enfin : organisent une liste ou une suite d'idées dans l'ordre.\n\nCependant, toutefois, néanmoins : introduisent une opposition ou une nuance par rapport à ce qui précède.\n\nEn effet : introduit une explication ou une justification de ce qui vient d'être dit.\n\nPar conséquent, donc, ainsi : introduisent une conséquence logique.\n\nDe plus, en outre : ajoutent un argument allant dans le même sens que le précédent.\n\nVarier ses connecteurs (plutôt que répéter toujours les mêmes) rend le texte plus fluide et plus agréable à lire.\n\nUN PARAGRAPHE, UNE IDÉE\n\nRègle d'or de l'argumentation : chaque paragraphe développe une seule idée principale, jamais plusieurs mélangées. Cela rend le raisonnement clair et facile à suivre.\n\nLa structure interne d'un bon paragraphe suit généralement cet ordre : l'idée/l'argument annoncé, puis son développement, puis un exemple concret qui l'illustre, et enfin (parfois) un lien explicite avec la thèse générale du texte.\n\nLA CONCESSION : UNE STRATÉGIE EFFICACE\n\nReconnaître partiellement la validité d'un argument adverse avant de le nuancer (souvent avec 'certes... mais...') montre que l'on a considéré objectivement la question, ce qui renforce paradoxalement la crédibilité de sa propre thèse plutôt que de l'affaiblir.\n\nÀ RETENIR\n\nStructure : introduction (sujet + problématique + plan) → développement (arguments + exemples) → conclusion (bilan + ouverture). Les connecteurs logiques organisent et clarifient le raisonnement — varie-les. Un paragraphe = une seule idée principale, toujours illustrée par un exemple.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -10760,7 +10760,7 @@
           {
             "id": "svt-1",
             "title": "La cellule, unité du vivant",
-            "fiche": "Tous les êtres vivants sont constitués de cellules, unicellulaires ou pluricellulaires.\n\nUne cellule contient un noyau (chez les eucaryotes) renfermant l'ADN, porteur de l'information génétique.\n\nLa division cellulaire permet la croissance et le renouvellement des tissus.",
+            "fiche": "TOUT LE VIVANT EST FAIT DE CELLULES\n\nQu'il s'agisse d'une bactérie microscopique, d'un champignon, d'une plante ou de toi-même, tous les êtres vivants partagent un même point commun : ils sont constitués de cellules. C'est le principe fondateur de la théorie cellulaire, et l'un des grands principes unificateurs de la biologie.\n\nCertains organismes sont unicellulaires : une seule cellule suffit à constituer l'être vivant tout entier (c'est le cas des bactéries). D'autres, comme les animaux ou les plantes, sont pluricellulaires : ils sont formés de milliards de cellules qui coopèrent, chacune spécialisée dans une fonction précise.\n\nL'INTÉRIEUR D'UNE CELLULE\n\nChaque cellule est délimitée par une membrane plasmique, qui la sépare de son environnement tout en laissant passer certains échanges. À l'intérieur se trouve le cytoplasme, un milieu contenant divers petits organites, chacun avec une fonction spécifique (comme les mitochondries, qui produisent l'énergie de la cellule).\n\nChez les eucaryotes (la plupart des êtres vivants complexes, y compris nous), la cellule possède un noyau : une structure délimitée par sa propre enveloppe, qui renferme l'ADN — le support de l'information génétique, c'est-à-dire les instructions qui définissent les caractéristiques de l'individu.\n\nLes cellules végétales, contrairement aux cellules animales, possèdent en plus une paroi cellulosique rigide, qui donne sa forme et sa solidité à la plante.\n\nLA DIVISION CELLULAIRE\n\nLes cellules se multiplient par division : une cellule se divise en deux cellules filles, chacune recevant une copie identique de l'ADN de la cellule mère. Ce mécanisme (la mitose) est essentiel : il permet la croissance d'un organisme (un embryon devient un adulte grâce à d'innombrables divisions successives) ainsi que le renouvellement des tissus abîmés ou usés (une plaie qui cicatrise, la peau qui se renouvelle).\n\nDE LA CELLULE À L'ORGANISME\n\nChez un organisme pluricellulaire, les cellules ne restent pas isolées : des cellules similaires s'associent pour former un tissu (le tissu musculaire, le tissu nerveux...). Plusieurs tissus différents s'associent à leur tour pour former un organe (le cœur, le foie...), et plusieurs organes travaillant ensemble forment un système (le système digestif, le système nerveux...).\n\nÀ RETENIR\n\nTous les êtres vivants sont constitués de cellules (unicellulaires ou pluricellulaires). Une cellule eucaryote possède un noyau contenant l'ADN. La division cellulaire permet la croissance et le renouvellement des tissus. Organisation : cellule → tissu → organe → système.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -11437,7 +11437,7 @@
           {
             "id": "svt-2",
             "title": "Écosystèmes et biodiversité",
-            "fiche": "Un écosystème regroupe les êtres vivants (biocénose) et leur milieu (biotope) en interaction.\n\nUne chaîne alimentaire relie producteurs (végétaux), consommateurs et décomposeurs.\n\nLa biodiversité désigne la diversité des espèces, des gènes et des écosystèmes.",
+            "fiche": "QU'EST-CE QU'UN ÉCOSYSTÈME ?\n\nUn écosystème est un ensemble formé par deux éléments en interaction constante : la biocénose, qui regroupe tous les êtres vivants présents (animaux, plantes, champignons, micro-organismes), et le biotope, le milieu physique dans lequel ils évoluent (sol, eau, climat, relief).\n\nUne forêt, un lac, un récif corallien ou même un simple jardin sont autant d'exemples d'écosystèmes, chacun avec ses propres équilibres.\n\nLA CHAÎNE ALIMENTAIRE\n\nAu sein d'un écosystème, les êtres vivants sont liés par des relations de nutrition, représentées par une chaîne alimentaire.\n\nTout commence avec les producteurs (essentiellement les végétaux), capables de fabriquer leur propre matière organique grâce à la photosynthèse, à partir de lumière, d'eau et de dioxyde de carbone.\n\nViennent ensuite les consommateurs : les consommateurs primaires (herbivores) mangent les producteurs ; les consommateurs secondaires (carnivores) mangent les consommateurs primaires, et ainsi de suite.\n\nEnfin, les décomposeurs (champignons, bactéries) recyclent la matière organique morte (feuilles mortes, cadavres...) en éléments simples réutilisables par les producteurs — bouclant ainsi le cycle de la matière.\n\nEn réalité, les relations alimentaires forment souvent un réseau alimentaire plus complexe qu'une simple chaîne linéaire, car de nombreuses espèces se nourrissent de plusieurs sources différentes.\n\nL'ÉNERGIE DANS LA CHAÎNE ALIMENTAIRE\n\nÀ chaque niveau (des producteurs vers les consommateurs), une grande partie de l'énergie disponible se perd sous forme de chaleur (environ 90%). C'est pourquoi les chaînes alimentaires comptent rarement plus de 4 ou 5 maillons : il ne reste tout simplement plus assez d'énergie pour soutenir un niveau supplémentaire.\n\nLA BIODIVERSITÉ\n\nLa biodiversité désigne la diversité du vivant, mesurée à trois niveaux emboîtés :\n\nLa diversité des écosystèmes (forêts, océans, déserts, prairies...), chacun avec ses propres caractéristiques.\n\nLa diversité des espèces au sein de chaque écosystème (le nombre et la variété des espèces présentes).\n\nLa diversité génétique au sein même d'une espèce donnée (deux individus de la même espèce ne sont jamais génétiquement identiques, sauf jumeaux).\n\nCette diversité, à tous les niveaux, rend les écosystèmes plus résilients : plus il y a de diversité, plus il est probable qu'une partie du système résiste face à une perturbation (maladie, changement climatique, catastrophe).\n\nLES MENACES SUR LA BIODIVERSITÉ\n\nLa déforestation, la pollution, le changement climatique et les espèces invasives (qui colonisent un nouveau milieu au détriment des espèces locales) sont autant de facteurs qui peuvent fragiliser un écosystème et réduire sa biodiversité.\n\nÀ RETENIR\n\nÉcosystème = biocénose (êtres vivants) + biotope (milieu physique) en interaction. Chaîne alimentaire : producteurs → consommateurs → décomposeurs, avec une perte d'énergie importante à chaque niveau. Biodiversité = diversité des écosystèmes + des espèces + des gènes.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -12103,7 +12103,7 @@
           {
             "id": "svt-3",
             "title": "Corps humain : bases de la nutrition",
-            "fiche": "La digestion transforme les aliments en nutriments assimilables par l'organisme.\n\nLe sang transporte les nutriments et le dioxygène vers les cellules.\n\nUne alimentation équilibrée fournit l'énergie et les éléments nécessaires au fonctionnement du corps.",
+            "fiche": "DE L'ALIMENT AU NUTRIMENT : LA DIGESTION\n\nLes aliments que nous mangeons ne peuvent pas être utilisés tels quels par nos cellules — ils doivent d'abord être décomposés en éléments beaucoup plus petits, appelés nutriments (glucides simples, acides aminés, acides gras...), capables de traverser la paroi de l'intestin pour rejoindre le sang.\n\nCe travail de transformation, la digestion, commence dans la bouche (mastication, salive), se poursuit dans l'estomac (brassage, sucs digestifs), puis surtout dans l'intestin grêle, où se termine la dégradation chimique des aliments et où les nutriments sont absorbés vers le sang. Ce qui n'est pas digéré poursuit son chemin jusqu'au gros intestin, pour être finalement évacué.\n\nDes enzymes digestives, sortes de petits outils biologiques, accélèrent et facilitent ces réactions de décomposition chimique tout au long du tube digestif.\n\nLE RÔLE DU SANG\n\nUne fois absorbés, les nutriments rejoignent la circulation sanguine, qui les distribue à toutes les cellules du corps. Le sang transporte également le dioxygène, capté au niveau des poumons, indispensable aux cellules pour produire de l'énergie via la respiration cellulaire.\n\nLe cœur joue le rôle de pompe : il propulse le sang dans tout l'organisme via les artères (qui partent du cœur) et le ramène via les veines (qui reviennent vers le cœur).\n\nLES DIFFÉRENTS NUTRIMENTS ET LEUR RÔLE\n\nLes glucides (sucres) fournissent principalement de l'énergie rapidement utilisable par les cellules.\n\nLes protéines (issues des acides aminés) servent surtout à construire et réparer les tissus du corps (muscles, peau...).\n\nLes lipides (graisses) constituent une réserve d'énergie importante, mobilisable sur le long terme.\n\nLes vitamines et minéraux sont nécessaires en très petite quantité, mais restent indispensables au bon fonctionnement de nombreux processus biologiques.\n\nL'eau, enfin, est essentielle à toutes les fonctions du corps — bien plus qu'un simple nutriment parmi d'autres.\n\nUNE ALIMENTATION ÉQUILIBRÉE\n\nManger équilibré, c'est apporter à l'organisme, dans de bonnes proportions, l'ensemble de ces nutriments : suffisamment d'énergie pour les besoins quotidiens, sans excès ni carence. Une carence (manque d'un nutriment essentiel) comme un excès (trop de sucre, de graisses...) peuvent tous deux perturber le fonctionnement du corps sur le long terme.\n\nÀ RETENIR\n\nLa digestion transforme les aliments en nutriments absorbables (surtout au niveau de l'intestin grêle). Le sang transporte nutriments et dioxygène vers toutes les cellules. Glucides = énergie rapide ; protéines = construction/réparation ; lipides = réserve d'énergie. Une alimentation équilibrée évite carences et excès.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -12775,7 +12775,7 @@
           {
             "id": "hg-1",
             "title": "Méthode : analyser un document",
-            "fiche": "Identifier nature, auteur, date et contexte du document avant toute analyse.\n\nDistinguer un fait (vérifiable) d'une opinion (point de vue de l'auteur).\n\nUne carte se lit toujours avec sa légende, son échelle et son orientation.",
+            "fiche": "AVANT D'ANALYSER : IDENTIFIER LE DOCUMENT\n\nFace à n'importe quel document (texte, carte, photo, graphique...), la première étape n'est jamais d'en analyser le contenu, mais de l'identifier précisément :\n\nSa nature (un texte de loi ? une photographie ? un extrait de journal ?), son auteur (qui l'a produit, et dans quel but ?), sa date (à quel moment a-t-il été créé ?), et son contexte (dans quelle situation historique ou géographique s'inscrit-il ?).\n\nCes éléments, souvent regroupés dans une légende ou une source sous le document, sont indispensables pour bien l'interpréter par la suite.\n\nFAIT OU OPINION ?\n\nUn bon lecteur critique doit savoir distinguer deux types d'informations dans un document.\n\nUn fait est une information vérifiable, qui peut être confirmée par d'autres sources indépendantes (une date, un événement avéré, une statistique officielle).\n\nUne opinion reflète le point de vue personnel de son auteur — elle peut être discutée, nuancée, voire contredite par d'autres points de vue. Un même événement peut ainsi être présenté très différemment selon les intérêts ou la sensibilité de celui qui en parle.\n\nRepérer les mots qui trahissent une opinion (adjectifs jugeants, tournures affirmatives non prouvées) aide à ne pas confondre ce qui est établi et ce qui est un simple avis.\n\nLIRE UNE CARTE\n\nUne carte ne se comprend jamais seule : elle se lit toujours avec trois éléments essentiels.\n\nLa légende explique la signification de chaque couleur et symbole utilisés — sans elle, impossible d'interpréter correctement ce qui est représenté.\n\nL'échelle indique le rapport entre les distances sur la carte et les distances réelles sur le terrain (par exemple, une échelle 1/100 000 signifie que 1 cm sur la carte représente 1 km dans la réalité).\n\nL'orientation, généralement indiquée par une flèche pointant le nord, permet de savoir comment la carte est positionnée par rapport aux points cardinaux.\n\nCROISER LES SOURCES\n\nAucun document, pris isolément, ne donne toute la vérité sur un sujet. Confronter plusieurs sources différentes (textes, images, statistiques...) permet de vérifier la fiabilité d'une information, de repérer d'éventuels biais, et de construire une analyse plus complète et nuancée.\n\nÀ RETENIR\n\nAvant d'analyser : identifier nature, auteur, date, contexte du document. Fait = vérifiable ; opinion = point de vue personnel discutable. Une carte se lit avec sa légende, son échelle et son orientation. Croiser plusieurs sources renforce la fiabilité de l'analyse.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -13452,7 +13452,7 @@
           {
             "id": "hg-2",
             "title": "Grands repères historiques",
-            "fiche": "Les grandes périodes : Antiquité, Moyen Âge, Temps modernes (à partir de 1492), Époque contemporaine (à partir de 1789).\n\nLa Révolution française (1789) marque un tournant politique majeur en Europe.\n\nUne frise chronologique permet de visualiser l'enchaînement et la durée des événements.",
+            "fiche": "LES QUATRE GRANDES PÉRIODES\n\nL'histoire humaine (depuis l'invention de l'écriture, qui marque la fin de la Préhistoire) se découpe traditionnellement en quatre grandes périodes.\n\nL'Antiquité s'étend depuis l'apparition de l'écriture jusqu'à la chute de l'Empire romain d'Occident, en 476 après J.-C. C'est l'époque des grandes civilisations comme l'Égypte, la Grèce ou Rome.\n\nLe Moyen Âge couvre environ mille ans, de 476 à 1492. C'est une période souvent associée aux châteaux forts, aux rois, à l'Église toute-puissante — mais aussi de grandes évolutions intellectuelles et artistiques, notamment vers sa fin.\n\nLes Temps modernes débutent en 1492, année du premier voyage de Christophe Colomb vers les Amériques, marquant le début des grandes explorations et découvertes. C'est aussi l'époque de la Renaissance et des Lumières.\n\nL'Époque contemporaine commence en 1789, avec la Révolution française, et se poursuit jusqu'à aujourd'hui.\n\nCe découpage n'est pas une vérité absolue : ce sont des repères construits par les historiens pour organiser l'étude du passé, et les limites précises font parfois débat.\n\nLA RÉVOLUTION FRANÇAISE (1789)\n\nCet événement marque un tournant politique majeur, non seulement en France mais dans toute l'Europe. Il met fin à la monarchie absolue (le roi détenait tous les pouvoirs) au profit de l'idée de souveraineté du peuple : c'est le peuple, et non plus un roi seul, qui doit détenir le pouvoir politique.\n\nParmi les moments clés : la prise de la Bastille (14 juillet 1789, symbole du soulèvement), la Déclaration des droits de l'homme et du citoyen (août 1789, qui affirme des principes de liberté et d'égalité), puis des années plus tumultueuses (dont la période de la Terreur, marquée par une forte répression politique), jusqu'à l'arrivée de Napoléon Bonaparte au pouvoir.\n\nLA FRISE CHRONOLOGIQUE\n\nC'est un outil essentiel en histoire : une ligne du temps sur laquelle on place les événements dans l'ordre chronologique, avec une échelle régulière (un siècle = 100 ans, un millénaire = 1000 ans). Elle permet de visualiser rapidement l'enchaînement et la durée relative des faits, et de mieux comprendre les liens de cause à effet entre eux.\n\nÀ RETENIR\n\nAntiquité (jusqu'à 476) → Moyen Âge (476-1492) → Temps modernes (1492-1789) → Époque contemporaine (depuis 1789). La Révolution française (1789) marque la fin de la monarchie absolue au profit de la souveraineté populaire. La frise chronologique visualise l'ordre et la durée des événements.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -14118,7 +14118,7 @@
           {
             "id": "hg-3",
             "title": "Grands repères géographiques",
-            "fiche": "La mondialisation intensifie les échanges de biens, de personnes et d'informations à l'échelle planétaire.\n\nUne métropole concentre population, activités et pouvoirs de décision.\n\nUn espace peut s'étudier à différentes échelles : locale, nationale, mondiale.",
+            "fiche": "LA MONDIALISATION\n\nLa mondialisation désigne l'intensification des échanges — de biens, de capitaux, de personnes et d'informations — à l'échelle de la planète entière. Elle connecte des territoires parfois très éloignés grâce aux transports (bateaux, avions) et aux technologies de communication (internet).\n\nCe phénomène crée une forte interdépendance entre pays : un produit que tu achètes peut avoir été conçu dans un pays, fabriqué dans un autre, et assemblé dans un troisième. Mais la mondialisation profite de façon inégale aux territoires : certains espaces (les grandes métropoles, les façades maritimes) en tirent largement parti, tandis que d'autres restent en marge de ces échanges.\n\nLES MÉTROPOLES\n\nUne métropole est une grande ville qui concentre une part importante de la population, des activités économiques et des pouvoirs de décision (sièges d'entreprises, institutions politiques...). Elle exerce souvent une influence bien au-delà de ses seules limites administratives, sur toute une région, voire à l'échelle mondiale pour les plus grandes d'entre elles (on parle alors de villes-monde, comme New York, Londres ou Tokyo).\n\nLes métropoles attirent notamment parce qu'elles concentrent emplois, services et infrastructures — ce qui explique le phénomène d'urbanisation (croissance des villes) observé dans le monde entier.\n\nRAISONNER À DIFFÉRENTES ÉCHELLES\n\nEn géographie, un même espace peut être étudié à plusieurs niveaux, appelés échelles, qui donnent chacun un éclairage différent.\n\nL'échelle locale se concentre sur un espace restreint et précis (un quartier, une ville).\n\nL'échelle nationale prend en compte l'ensemble d'un pays.\n\nL'échelle mondiale englobe la planète entière.\n\nChanger d'échelle peut révéler des réalités très différentes, parfois même contradictoires, pour un même phénomène : la mondialisation peut par exemple créer de la richesse à l'échelle mondiale tout en accentuant des inégalités à l'échelle locale d'un territoire donné. D'où l'importance, en géographie, de toujours préciser à quelle échelle on raisonne.\n\nÀ RETENIR\n\nMondialisation = intensification des échanges à l'échelle planétaire, aux effets inégaux selon les territoires. Métropole = ville qui concentre population, activités et pouvoirs de décision. Un phénomène géographique peut avoir des effets différents selon l'échelle d'observation (locale, nationale, mondiale).",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -14801,7 +14801,7 @@
           {
             "id": "an-1",
             "title": "Grammaire de base",
-            "fiche": "Present simple (habitude/fait général) vs present continuous (action en cours) : 'I play' / 'I am playing'.\n\nPreterit (passé simple) pour une action terminée et datée : 'I played yesterday'.\n\nLe comparatif : short adjective + -er (bigger) ; long adjective : more + adjective (more interesting).",
+            "fiche": "PRESENT SIMPLE VS PRESENT CONTINUOUS\n\nCes deux temps décrivent tous deux le présent, mais avec une nuance essentielle à bien comprendre.\n\nLe present simple ('I play') décrit une habitude, une routine ou un fait général — quelque chose de vrai en général, pas forcément en train de se passer maintenant. À la 3e personne du singulier (he/she/it), on ajoute un -s : 'she plays'.\n\nLe present continuous ('I am playing') décrit une action en train de se dérouler précisément au moment où l'on parle. Il se forme avec be (am/is/are selon le sujet) suivi du verbe + -ing.\n\nDes mots-indices aident à choisir le bon temps : 'usually', 'every day', 'often' signalent le present simple ; 'right now', 'at the moment', 'look!' signalent le present continuous.\n\nAttention : certains verbes, dits verbes d'état (like, know, believe, want...), décrivent une situation stable plutôt qu'une action, et s'utilisent presque toujours au present simple, même pour parler du moment présent ('I like this song', jamais 'I am liking').\n\nLE PRETERIT (PASSÉ SIMPLE)\n\nLe preterit s'utilise pour une action terminée et clairement située dans le passé ('I played yesterday', 'she went to school last week'). C'est l'équivalent le plus courant du passé composé français dans un récit.\n\nPour les verbes réguliers, on ajoute -ed à l'infinitif (play → played). Mais de nombreux verbes anglais très courants sont irréguliers et changent complètement de forme (go → went, be → was/were, have → had) — il faut les apprendre par cœur, un peu comme les verbes irréguliers en français.\n\nLE COMPARATIF\n\nPour comparer deux éléments, la construction dépend de la longueur de l'adjectif.\n\nPour un adjectif court (une syllabe, parfois deux) : on ajoute -er à la fin. Big → bigger. Si l'adjectif se termine par une consonne précédée d'une seule voyelle, on double parfois la consonne (big → bigger).\n\nPour un adjectif long (généralement trois syllabes ou plus, et beaucoup de deux syllabes) : on utilise more devant l'adjectif, sans le modifier. Interesting → more interesting.\n\nCertains adjectifs très courants sont irréguliers : good → better, bad → worse.\n\nOn complète souvent la comparaison par 'than' : 'She is taller than him.'\n\nÀ RETENIR\n\nPresent simple = habitude/fait général (+s à la 3e pers. du sing.) ; Present continuous = action en cours (be + verbe-ing). Preterit = action passée terminée et datée (verbe régulier +ed, ou forme irrégulière à apprendre). Comparatif : adjectif court +er ; adjectif long more + adjectif ; +than pour comparer.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -15478,7 +15478,7 @@
           {
             "id": "an-2",
             "title": "Vocabulaire thématique du quotidien",
-            "fiche": "Se présenter : name, age, nationality, hobbies.\n\nDécrire une routine : wake up, have breakfast, go to school, do homework.\n\nExprimer une opinion : I think that…, In my opinion…, I disagree because…",
+            "fiche": "SE PRÉSENTER\n\nSe présenter en anglais fait généralement appel à quelques informations de base : name (nom), age (âge), nationality (nationalité), hobbies (loisirs/passe-temps). Exemple : 'My name is Léa, I am 15 years old, I am French, and my hobbies are reading and football.'\n\nD'autres expressions courantes s'ajoutent souvent : 'Where are you from?' (d'où viens-tu ?), 'What do you do?' (que fais-tu / quel est ton métier ?).\n\nDÉCRIRE SA ROUTINE QUOTIDIENNE\n\nLe vocabulaire de la routine s'apprend souvent dans l'ordre chronologique de la journée : wake up (se réveiller), get up (se lever), have breakfast (prendre le petit-déjeuner), go to school (aller à l'école), have lunch (déjeuner), do homework (faire ses devoirs), have dinner (dîner), go to bed (aller se coucher).\n\nCes verbes s'utilisent typiquement au present simple pour décrire une habitude ('I wake up at 7am every day') puisqu'une routine est justement un fait régulier — l'occasion de réviser aussi ce temps grammatical.\n\nDes adverbes de fréquence viennent souvent préciser la routine : always (toujours), usually (habituellement), often (souvent), sometimes (parfois), never (jamais). Ils se placent généralement avant le verbe principal ('I always have breakfast'), sauf avec le verbe be, où ils se placent après ('She is always late').\n\nEXPRIMER UNE OPINION\n\nPour donner son avis en anglais, plusieurs formules reviennent souvent : 'I think that...' (je pense que...), 'In my opinion...' (à mon avis...), 'I believe that...' (je crois que...).\n\nPour marquer un désaccord : 'I disagree because...' (je ne suis pas d'accord parce que...), 'I don't think that...' (je ne pense pas que...).\n\nPour marquer un accord : 'I agree with...' (je suis d'accord avec...), 'I couldn't agree more' (je suis complètement d'accord, expression idiomatique).\n\nVOCABULAIRE UTILE : LA FAMILLE ET LES RELATIONS\n\nFamily (famille), friend (ami), parents (parents), siblings (frères et sœurs). Ce vocabulaire relationnel accompagne souvent les descriptions de routine ou de présentation personnelle.\n\nÀ RETENIR\n\nSe présenter : name, age, nationality, hobbies. La routine se décrit au present simple, souvent avec des adverbes de fréquence (always, usually, often, sometimes, never). Opinion : I think that / in my opinion (accord) vs I disagree because (désaccord).",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -16155,7 +16155,7 @@
           {
             "id": "an-3",
             "title": "Compréhension : repérer l'essentiel",
-            "fiche": "Repérer d'abord les mots-clés (noms propres, chiffres, mots répétés) avant de tout comprendre mot à mot.\n\nLes mots de liaison (but, however, because, so) donnent la logique du texte.\n\nNe pas bloquer sur un mot inconnu : déduire le sens grâce au contexte.",
+            "fiche": "NE PAS CHERCHER À TOUT COMPRENDRE MOT À MOT\n\nFace à un texte en anglais, l'erreur la plus fréquente est de vouloir comprendre chaque mot avant de continuer. Cette approche fait perdre du temps et bloque souvent la compréhension globale. Une bien meilleure stratégie : repérer d'abord les mots-clés — noms propres (souvent reconnaissables à leur majuscule), chiffres, dates, mots répétés plusieurs fois — qui donnent rapidement une idée du sujet général avant de rentrer dans le détail.\n\nDEUX STRATÉGIES DE LECTURE COMPLÉMENTAIRES\n\nLe skimming consiste à survoler rapidement un texte pour en saisir l'idée générale, sans s'attarder sur les détails — utile en première lecture, pour se faire une idée du sujet avant d'aller plus loin.\n\nLe scanning consiste à parcourir le texte pour y repérer rapidement une information précise (une date, un nom, un chiffre) sans lire l'intégralité du texte — utile quand on cherche une réponse ciblée à une question précise.\n\nLES MOTS DE LIAISON : LA LOGIQUE DU TEXTE\n\nMême sans connaître tous les mots d'un texte, repérer les mots de liaison (connecteurs logiques) donne d'énormes indices sur la structure et le sens du raisonnement.\n\nBut, however, nevertheless : introduisent une opposition ou une nuance par rapport à ce qui précède.\n\nBecause, since : introduisent une cause, une explication.\n\nSo, therefore, as a result : introduisent une conséquence.\n\nAlso, furthermore, moreover : ajoutent une idée dans la continuité.\n\nFor example, for instance : introduisent un exemple concret.\n\nRepérer ces mots-charnières aide à suivre le fil logique du texte, même si certains mots restent inconnus autour d'eux.\n\nDÉDUIRE LE SENS D'UN MOT INCONNU\n\nFace à un mot inconnu, il ne faut surtout pas bloquer la lecture : il vaut mieux essayer de déduire son sens grâce au contexte — les mots qui l'entourent, le sens général de la phrase, éventuellement une ressemblance avec un mot français.\n\nAttention toutefois aux faux-amis : des mots qui se ressemblent entre le français et l'anglais mais qui ont un sens différent. Par exemple, 'actually' ne signifie pas 'actuellement' mais 'en fait / réellement' ; 'library' ne signifie pas 'librairie' mais 'bibliothèque'.\n\nÀ RETENIR\n\nRepère d'abord les mots-clés (noms propres, chiffres, répétitions) avant de tout comprendre mot à mot. Skimming = vue d'ensemble rapide ; scanning = recherche d'une info précise. Les mots de liaison (but, because, so...) révèlent la logique du texte. Face à un mot inconnu : déduis par le contexte, méfie-toi des faux-amis.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -16838,7 +16838,7 @@
           {
             "id": "ses-1",
             "title": "Qu'est-ce que l'économie ?",
-            "fiche": "L'économie étudie comment les individus et les sociétés utilisent des ressources rares pour satisfaire des besoins illimités.\n\nUn agent économique (ménage, entreprise, État) prend des décisions de production, consommation ou épargne.\n\nLe marché met en relation une offre et une demande, qui déterminent un prix.",
+            "fiche": "LE PROBLÈME ÉCONOMIQUE DE BASE\n\nL'économie est la science qui étudie comment les individus et les sociétés utilisent des ressources rares (limitées) pour satisfaire des besoins illimités (qui n'ont, eux, pas de limite fixe). C'est cette tension entre ressources limitées et besoins sans fin qui pousse à faire des choix — et étudier ces choix, c'est précisément l'objet de l'économie.\n\nUn bien est dit économique (par opposition à un bien libre comme l'air) quand il est rare et généralement payant : il faut un effort, une production ou un échange pour se le procurer.\n\nLES AGENTS ÉCONOMIQUES\n\nUn agent économique est un acteur qui prend des décisions économiques : produire, consommer, épargner, investir.\n\nLes ménages consomment des biens et services, épargnent une partie de leur revenu, et fournissent leur travail aux entreprises.\n\nLes entreprises produisent des biens et services, en échange desquels elles réalisent (ou non) un profit, et versent des salaires à leurs employés.\n\nL'État prélève des impôts, redistribue une partie des richesses (aides sociales, services publics), et régule l'activité économique par des lois et règlements.\n\nCes agents interagissent en permanence : les ménages travaillent pour les entreprises, qui leur versent un salaire, avec lequel ils consomment des biens produits par ces mêmes entreprises — un circuit économique en boucle continue.\n\nLE MARCHÉ, L'OFFRE ET LA DEMANDE\n\nUn marché est le lieu (souvent virtuel aujourd'hui) où se rencontrent une offre et une demande pour un bien ou un service donné.\n\nL'offre représente la quantité qu'un vendeur est prêt à proposer à un prix donné. La demande représente la quantité qu'un acheteur est prêt à acquérir à ce même prix.\n\nLe prix d'équilibre se forme à la rencontre de ces deux forces : si la demande dépasse l'offre disponible, le prix tend à monter (le bien devient rare relativement à ceux qui le veulent) ; à l'inverse, si l'offre dépasse la demande, le prix tend à baisser.\n\nPRODUIRE, CONSOMMER, ÉPARGNER\n\nProduire, c'est créer un bien ou un service ayant une valeur économique. Consommer, c'est utiliser un bien ou un service pour satisfaire un besoin. Épargner, c'est mettre de côté une partie de son revenu plutôt que de le consommer immédiatement — une réserve pour l'avenir.\n\nÀ RETENIR\n\nL'économie étudie l'utilisation de ressources rares face à des besoins illimités. Les agents économiques principaux : ménages, entreprises, État. Un marché fait se rencontrer offre et demande, qui déterminent ensemble le prix. Produire, consommer, épargner sont les trois grandes décisions économiques.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -17515,7 +17515,7 @@
           {
             "id": "ses-2",
             "title": "Ménages : consommation et épargne",
-            "fiche": "Le revenu disponible d'un ménage se répartit entre consommation et épargne.\n\nLe pouvoir d'achat mesure la quantité de biens et services qu'un revenu permet d'acheter.\n\nLa consommation dépend du revenu, mais aussi des prix, des habitudes et des préférences.",
+            "fiche": "LE REVENU DISPONIBLE : CONSOMMER OU ÉPARGNER\n\nLe revenu disponible d'un ménage — ce qu'il lui reste une fois les impôts payés et les aides sociales reçues — se répartit entre deux grands usages : la consommation (dépenser pour acquérir des biens et services) et l'épargne (mettre de côté pour plus tard).\n\nLa part consacrée à l'épargne, rapportée au revenu total, s'appelle le taux d'épargne. Il varie beaucoup selon les ménages : plus le revenu est élevé, plus la part épargnée tend généralement à augmenter, une fois les besoins essentiels couverts.\n\nLE POUVOIR D'ACHAT\n\nLe pouvoir d'achat mesure la quantité de biens et de services qu'un revenu donné permet réellement d'acheter. Il ne dépend pas seulement du montant du revenu, mais aussi du niveau des prix : un même revenu permet d'acheter moins si les prix augmentent (inflation), et davantage si les prix baissent ou stagnent.\n\nConcrètement, le pouvoir d'achat diminue quand les prix augmentent plus vite que le revenu — c'est pourquoi une hausse de salaire ne se traduit pas toujours par un vrai gain de pouvoir d'achat si l'inflation est encore plus forte.\n\nCE QUI INFLUENCE LA CONSOMMATION\n\nLa consommation d'un ménage ne dépend pas uniquement de son revenu. Plusieurs facteurs entrent en jeu :\n\nLe niveau des prix : des prix plus élevés réduisent, à revenu égal, ce qu'on peut consommer.\n\nLes habitudes de consommation, propres à chaque foyer, culture ou génération.\n\nLes préférences personnelles, qui varient selon les goûts et priorités de chacun.\n\nLes dépenses contraintes (logement, énergie, assurances...), difficiles à réduire, qui pèsent davantage dans le budget des ménages aux revenus modestes.\n\nÉPARGNER : POURQUOI ?\n\nL'épargne répond à plusieurs motivations différentes. L'épargne de précaution constitue une réserve pour faire face à un imprévu (perte d'emploi, réparation urgente...). L'épargne de projet vise un objectif précis (achat d'un logement, voyage...). L'épargne peut aussi servir à préparer la retraite, sur le très long terme.\n\nLE BUDGET D'UN MÉNAGE\n\nLe budget regroupe l'ensemble des revenus et des dépenses prévus sur une période donnée. Un budget est dit équilibré quand les dépenses ne dépassent pas les revenus disponibles ; à l'inverse, des dépenses répétées supérieures aux revenus peuvent mener au surendettement.\n\nÀ RETENIR\n\nLe revenu disponible se partage entre consommation et épargne. Le pouvoir d'achat dépend du revenu ET du niveau des prix. La consommation dépend du revenu, des prix, des habitudes et des préférences. L'épargne répond à différentes motivations (précaution, projet, retraite).",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -18187,7 +18187,7 @@
           {
             "id": "snt-1",
             "title": "Internet et le web",
-            "fiche": "Internet est le réseau physique mondial ; le Web est un ensemble de services (dont les sites) qui fonctionne grâce à lui.\n\nUne adresse IP identifie un appareil sur un réseau ; un nom de domaine (ex. site.fr) la rend lisible pour les humains.\n\nLe protocole HTTPS chiffre les échanges entre un navigateur et un site pour les sécuriser.",
+            "fiche": "INTERNET ET LE WEB : PAS LA MÊME CHOSE\n\nOn confond souvent les deux, mais ce ne sont pas les mêmes choses. Internet est le réseau physique mondial — l'ensemble des câbles, serveurs et équipements interconnectés à travers la planète qui permettent aux données de circuler d'un point à un autre.\n\nLe Web (World Wide Web) est un ensemble de services qui utilisent ce réseau, dont le plus connu est la consultation de sites internet. Mais Internet transporte aussi d'autres services : les emails, la messagerie instantanée, le streaming vidéo, les jeux en ligne... Le Web n'est donc qu'une partie de ce que permet Internet.\n\nIDENTIFIER UN APPAREIL SUR LE RÉSEAU\n\nChaque appareil connecté à Internet possède une adresse IP, une sorte de numéro d'identification unique qui permet de le localiser sur le réseau, un peu comme une adresse postale permet de localiser une maison.\n\nComme ces adresses IP (des suites de chiffres) sont difficiles à retenir pour un être humain, on utilise à la place des noms de domaine (comme wikipedia.fr ou google.com), bien plus faciles à mémoriser. Un système appelé DNS (Domain Name System) fait le lien en coulisses entre le nom de domaine tapé par l'utilisateur et l'adresse IP réelle du serveur correspondant.\n\nSÉCURISER LES ÉCHANGES : HTTPS\n\nQuand tu navigues sur un site, ton navigateur et le serveur du site échangent des informations. Le protocole HTTPS (le S signifie 'Secure') chiffre ces échanges, les rendant illisibles pour quiconque tenterait de les intercepter en chemin — contrairement au protocole HTTP plus ancien, non sécurisé.\n\nCe chiffrement repose sur un mécanisme de clés : une clé publique (partageable) sert à chiffrer les données, une clé privée (gardée secrète) permet seule de les déchiffrer. C'est ce système, appelé chiffrement asymétrique, qui protège par exemple tes mots de passe ou tes informations bancaires quand tu les saisis en ligne.\n\nAttention : HTTPS garantit que la connexion est chiffrée, mais ne garantit pas que le site lui-même soit fiable ou honnête — un site malveillant peut très bien utiliser HTTPS tout en hébergeant un contenu frauduleux.\n\nSE PROTÉGER EN LIGNE\n\nQuelques bonnes pratiques essentielles : utiliser des mots de passe robustes (longs et variés, différents d'un site à l'autre), activer l'authentification à deux facteurs quand c'est possible (une vérification supplémentaire en plus du mot de passe), et rester vigilant face au phishing (des messages trompeurs cherchant à voler des informations personnelles en se faisant passer pour un service légitime).\n\nÀ RETENIR\n\nInternet = réseau physique mondial ; le Web = un ensemble de services (dont les sites) qui l'utilise. Une adresse IP identifie un appareil ; un nom de domaine la rend lisible pour les humains (via le DNS). HTTPS chiffre les échanges entre navigateur et site, mais ne garantit pas la fiabilité du contenu.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -18864,7 +18864,7 @@
           {
             "id": "snt-2",
             "title": "Données et algorithmes",
-            "fiche": "Une donnée est une information brute (nombre, texte, image) qui peut être traitée par un programme.\n\nUn algorithme est une suite finie et précise d'instructions pour résoudre un problème.\n\nLes réseaux sociaux utilisent des algorithmes de recommandation basés sur les données des utilisateurs.",
+            "fiche": "QU'EST-CE QU'UNE DONNÉE ?\n\nUne donnée est une information brute — un nombre, un texte, une image, un son — qui peut être stockée, transmise et traitée par un programme informatique. En elle-même, une donnée isolée n'a pas forcément de sens : c'est son traitement et son contexte qui lui donnent une utilité (la donnée '20' seule ne signifie rien ; associée à 'note sur 20 en maths', elle prend du sens).\n\nToute donnée numérique est finalement représentée sous forme binaire : une suite de 0 et de 1 (appelés bits), regroupés par paquets de 8 pour former un octet. Une image numérique, par exemple, est composée de nombreux petits points colorés (pixels), chacun codé numériquement.\n\nQU'EST-CE QU'UN ALGORITHME ?\n\nUn algorithme est une suite finie et précise d'instructions permettant de résoudre un problème donné, étape par étape — un peu comme une recette de cuisine, qui indique précisément quoi faire, dans quel ordre, pour obtenir un résultat.\n\nUn algorithme peut ensuite être traduit dans un langage de programmation (Python, JavaScript...) pour devenir un programme exécutable par un ordinateur. Le programme suit alors les instructions à la lettre, sans en dévier, ce qui explique pourquoi une erreur ou une imprécision dans l'algorithme se répercute directement sur le résultat.\n\nUn algorithme peut inclure des conditions (si telle situation se présente, alors faire telle action) et des boucles (répéter une action plusieurs fois), deux briques essentielles de la programmation.\n\nLES ALGORITHMES DE RECOMMANDATION\n\nLes réseaux sociaux, plateformes de streaming ou sites marchands utilisent des algorithmes de recommandation pour te proposer du contenu personnalisé, basé notamment sur tes données (ce que tu as déjà consulté, aimé, ou le temps passé sur chaque contenu).\n\nUne technique courante est le filtrage collaboratif : le système te recommande du contenu apprécié par des utilisateurs ayant des comportements similaires aux tiens.\n\nCes algorithmes cherchent souvent à maximiser l'engagement (le temps passé, les interactions) — ce qui peut, sans le vouloir, favoriser un contenu plus polarisant ou sensationnaliste, simplement parce qu'il capte davantage l'attention.\n\nL'INTELLIGENCE ARTIFICIELLE ET LE MACHINE LEARNING\n\nLe machine learning (apprentissage automatique) est une approche où, plutôt que de programmer des règles fixes, on entraîne un système à partir d'un grand nombre de données pour qu'il apprenne lui-même à reconnaître des motifs et à faire des prédictions. C'est cette approche qui est notamment à la base de nombreux systèmes de recommandation, de reconnaissance d'image ou de traduction automatique modernes.\n\nÀ RETENIR\n\nUne donnée est une information brute (nombre, texte, image), représentée numériquement en binaire (bits, octets). Un algorithme est une suite précise d'instructions pour résoudre un problème, qui peut être traduite en programme informatique. Les algorithmes de recommandation utilisent les données des utilisateurs pour personnaliser le contenu proposé.",
             "quizzes": [
               {
                 "id": "q-facile",
@@ -19532,623 +19532,18 @@
     ]
   },
   "progressByProfile": {
-    "p-1786963579574": {
-      "prepa-1": {
-        "read": true,
-        "masteryPct": 75,
-        "lastReviewed": 1786827364252
-      },
-      "prepa-2": {
-        "read": true,
-        "masteryPct": 100,
-        "lastReviewed": 1786827364252
-      },
-      "fr-1": {
-        "read": true,
-        "masteryPct": 100,
-        "lastReviewed": 1786826579907
-      },
-      "hg-2": {
-        "read": true,
-        "masteryPct": 100,
-        "lastReviewed": 1786826791561
-      },
-      "snt-1": {
-        "read": true,
-        "masteryPct": 100,
-        "lastReviewed": 1786826997258
-      },
-      "snt-2": {
-        "read": true,
-        "masteryPct": 100,
-        "lastReviewed": 1786827100436
-      },
-      "an-3": {
-        "read": true,
-        "masteryPct": 0,
-        "lastReviewed": 1786827364252
-      },
-      "pc-4": {
-        "read": true,
-        "masteryPct": 0,
-        "lastReviewed": 1786827364252
-      },
-      "prepa-4": {
-        "read": true,
-        "masteryPct": 100,
-        "lastReviewed": 1786827364252
-      },
-      "an-2": {
-        "read": true,
-        "masteryPct": 100,
-        "lastReviewed": 1786827364252
-      },
-      "prepa-5": {
-        "read": true,
-        "masteryPct": 0,
-        "lastReviewed": 1786827364252
-      },
-      "prepa-1::fiche": {
-        "read": true,
-        "lastReviewed": 1786827364252
-      },
-      "prepa-1::q1": {
-        "best": 75,
-        "lastReviewed": 1786827364252,
-        "history": [
-          {
-            "date": 1786827364252,
-            "score": 75,
-            "total": 100
-          }
-        ]
-      },
-      "prepa-2::fiche": {
-        "read": true,
-        "lastReviewed": 1786827364252
-      },
-      "prepa-2::q1": {
-        "best": 100,
-        "lastReviewed": 1786827364252,
-        "history": [
-          {
-            "date": 1786827364252,
-            "score": 100,
-            "total": 100
-          }
-        ]
-      },
-      "prepa-4::fiche": {
-        "read": true,
-        "lastReviewed": 1786827364252
-      },
-      "prepa-4::q1": {
-        "best": 100,
-        "lastReviewed": 1786827364252,
-        "history": [
-          {
-            "date": 1786827364252,
-            "score": 100,
-            "total": 100
-          }
-        ]
-      },
-      "prepa-5::fiche": {
-        "read": true,
-        "lastReviewed": 1786827364252
-      },
-      "pc-4::fiche": {
-        "read": true,
-        "lastReviewed": 1786827364252
-      },
-      "fr-1::fiche": {
-        "read": true,
-        "lastReviewed": 1786826579907
-      },
-      "fr-1::q1": {
-        "best": 100,
-        "lastReviewed": 1786826579907,
-        "history": [
-          {
-            "date": 1786826579907,
-            "score": 100,
-            "total": 100
-          }
-        ]
-      },
-      "hg-2::fiche": {
-        "read": true,
-        "lastReviewed": 1786826791561
-      },
-      "hg-2::q1": {
-        "best": 100,
-        "lastReviewed": 1786826791561,
-        "history": [
-          {
-            "date": 1786826791561,
-            "score": 100,
-            "total": 100
-          }
-        ]
-      },
-      "an-2::fiche": {
-        "read": true,
-        "lastReviewed": 1786827364252
-      },
-      "an-2::q1": {
-        "best": 100,
-        "lastReviewed": 1786827364252,
-        "history": [
-          {
-            "date": 1786827364252,
-            "score": 100,
-            "total": 100
-          }
-        ]
-      },
-      "an-3::fiche": {
-        "read": true,
-        "lastReviewed": 1786827364252
-      },
-      "snt-1::fiche": {
-        "read": true,
-        "lastReviewed": 1786826997258
-      },
-      "snt-1::q1": {
-        "best": 100,
-        "lastReviewed": 1786826997258,
-        "history": [
-          {
-            "date": 1786826997258,
-            "score": 100,
-            "total": 100
-          }
-        ]
-      },
-      "snt-2::fiche": {
-        "read": true,
-        "lastReviewed": 1786827100436
-      },
-      "snt-2::q1": {
-        "best": 100,
-        "lastReviewed": 1786827100436,
-        "history": [
-          {
-            "date": 1786827100436,
-            "score": 100,
-            "total": 100
-          }
-        ]
-      },
+    "local": {
       "hg-1::fiche": {
         "read": true,
-        "lastReviewed": 1786828701889
-      },
-      "pc-1::fiche": {
-        "read": true,
-        "lastReviewed": 1786830253961
-      },
-      "ma-1::fiche": {
-        "read": true,
-        "lastReviewed": 1786863828089
-      },
-      "svt-1::fiche": {
-        "read": true,
-        "lastReviewed": 1786864384030
-      },
-      "pc-3::fiche": {
-        "read": true,
-        "lastReviewed": 1786864469465
-      },
-      "fr-1::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786826579907,
-        "history": [
-          {
-            "date": 1786826579907,
-            "score": 100,
-            "total": 100
-          }
-        ]
-      },
-      "hg-2::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786826791561,
-        "history": [
-          {
-            "date": 1786826791561,
-            "score": 100,
-            "total": 100
-          }
-        ]
-      },
-      "an-2::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786827364252,
-        "history": [
-          {
-            "date": 1786827364252,
-            "score": 100,
-            "total": 100
-          }
-        ]
-      },
-      "prepa-1::q-facile": {
-        "best": 75,
-        "lastReviewed": 1786827364252,
-        "history": [
-          {
-            "date": 1786827364252,
-            "score": 75,
-            "total": 100
-          }
-        ]
-      },
-      "prepa-2::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786827364252,
-        "history": [
-          {
-            "date": 1786827364252,
-            "score": 100,
-            "total": 100
-          }
-        ]
-      },
-      "prepa-4::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786827364252,
-        "history": [
-          {
-            "date": 1786827364252,
-            "score": 100,
-            "total": 100
-          }
-        ]
-      },
-      "snt-1::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786826997258,
-        "history": [
-          {
-            "date": 1786826997258,
-            "score": 100,
-            "total": 100
-          }
-        ]
-      },
-      "snt-2::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786827100436,
-        "history": [
-          {
-            "date": 1786827100436,
-            "score": 100,
-            "total": 100
-          }
-        ]
-      },
-      "ma-3::fiche": {
-        "read": true,
-        "lastReviewed": 1786866255039
-      },
-      "ma-3::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786871009135,
-        "history": [
-          {
-            "date": 1786866583511,
-            "score": 12,
-            "total": 20
-          },
-          {
-            "date": 1786870904913,
-            "score": 17,
-            "total": 20
-          },
-          {
-            "date": 1786871009135,
-            "score": 20,
-            "total": 20
-          }
-        ]
-      },
-      "pc-1::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786867213858,
-        "history": [
-          {
-            "date": 1786867213858,
-            "score": 20,
-            "total": 20
-          }
-        ]
-      },
-      "pc-2::fiche": {
-        "read": true,
-        "lastReviewed": 1786869522758
-      },
-      "pc-1::q-moyen": {
-        "best": 100,
-        "lastReviewed": 1786885027042,
-        "history": [
-          {
-            "date": 1786869766528,
-            "score": 15,
-            "total": 20
-          },
-          {
-            "date": 1786884883846,
-            "score": 16,
-            "total": 20
-          },
-          {
-            "date": 1786885027042,
-            "score": 20,
-            "total": 20
-          }
-        ]
-      },
-      "ma-1::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786883985608,
-        "history": [
-          {
-            "date": 1786870397054,
-            "score": 19,
-            "total": 20
-          },
-          {
-            "date": 1786883985608,
-            "score": 20,
-            "total": 20
-          }
-        ]
-      },
-      "ma-2::fiche": {
-        "read": true,
-        "lastReviewed": 1786870428052
-      },
-      "ma-2::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786884397294,
-        "history": [
-          {
-            "date": 1786870696725,
-            "score": 17,
-            "total": 20
-          },
-          {
-            "date": 1786884213905,
-            "score": 19,
-            "total": 20
-          },
-          {
-            "date": 1786884397294,
-            "score": 20,
-            "total": 20
-          }
-        ]
-      },
-      "fr-2::fiche": {
-        "read": true,
-        "lastReviewed": 1786871062818
-      },
-      "fr-2::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786871246039,
-        "history": [
-          {
-            "date": 1786871246039,
-            "score": 20,
-            "total": 20
-          }
-        ]
-      },
-      "fr-3::fiche": {
-        "read": true,
-        "lastReviewed": 1786871279424
-      },
-      "fr-3::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786884724715,
-        "history": [
-          {
-            "date": 1786871515643,
-            "score": 18,
-            "total": 20
-          },
-          {
-            "date": 1786884623547,
-            "score": 19,
-            "total": 20
-          },
-          {
-            "date": 1786884724715,
-            "score": 20,
-            "total": 20
-          }
-        ]
-      },
-      "an-1::fiche": {
-        "read": true,
-        "lastReviewed": 1786871554454
-      },
-      "an-1::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786962827484,
-        "history": [
-          {
-            "date": 1786871770403,
-            "score": 17,
-            "total": 20
-          },
-          {
-            "date": 1786962827484,
-            "score": 20,
-            "total": 20
-          }
-        ]
-      },
-      "an-3::q-facile": {
-        "best": 90,
-        "lastReviewed": 1786872004521,
-        "history": [
-          {
-            "date": 1786872004521,
-            "score": 18,
-            "total": 20
-          }
-        ]
-      },
-      "pc-2::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786873647296,
-        "history": [
-          {
-            "date": 1786873513964,
-            "score": 14,
-            "total": 20
-          },
-          {
-            "date": 1786873647296,
-            "score": 20,
-            "total": 20
-          }
-        ]
-      },
-      "pc-4::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786883882833,
-        "history": [
-          {
-            "date": 1786883882833,
-            "score": 20,
-            "total": 20
-          }
-        ]
-      },
-      "pc-3::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786885365364,
-        "history": [
-          {
-            "date": 1786885166494,
-            "score": 16,
-            "total": 20
-          },
-          {
-            "date": 1786885300221,
-            "score": 19,
-            "total": 20
-          },
-          {
-            "date": 1786885365364,
-            "score": 20,
-            "total": 20
-          }
-        ]
-      },
-      "svt-1::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786885726258,
-        "history": [
-          {
-            "date": 1786885619895,
-            "score": 18,
-            "total": 20
-          },
-          {
-            "date": 1786885726258,
-            "score": 20,
-            "total": 20
-          }
-        ]
-      },
-      "svt-2::fiche": {
-        "read": true,
-        "lastReviewed": 1786885742128
-      },
-      "svt-2::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786886044593,
-        "history": [
-          {
-            "date": 1786885917827,
-            "score": 17,
-            "total": 20
-          },
-          {
-            "date": 1786886044593,
-            "score": 20,
-            "total": 20
-          }
-        ]
-      },
-      "svt-3::fiche": {
-        "read": true,
-        "lastReviewed": 1786961131735
-      },
-      "svt-3::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786961343452,
-        "history": [
-          {
-            "date": 1786961260559,
-            "score": 19,
-            "total": 20
-          },
-          {
-            "date": 1786961343452,
-            "score": 20,
-            "total": 20
-          }
-        ]
-      },
-      "hg-1::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786961968308,
-        "history": [
-          {
-            "date": 1786961863182,
-            "score": 19,
-            "total": 20
-          },
-          {
-            "date": 1786961968308,
-            "score": 20,
-            "total": 20
-          }
-        ]
-      },
-      "hg-3::fiche": {
-        "read": true,
-        "lastReviewed": 1786961980792
-      },
-      "hg-3::q-facile": {
-        "best": 100,
-        "lastReviewed": 1786962667451,
-        "history": [
-          {
-            "date": 1786962484882,
-            "score": 19,
-            "total": 20
-          },
-          {
-            "date": 1786962667451,
-            "score": 20,
-            "total": 20
-          }
-        ]
+        "lastReviewed": 1786968308816
       }
     }
   },
   "profiles": [
     {
-      "id": "p-1786963579574",
-      "name": "ruby",
-      "level": "2nde générale",
-      "isParent": false
+      "id": "local",
+      "name": "Ruby",
+      "level": "2nde générale"
     }
   ]
 }
