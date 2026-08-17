@@ -1,6 +1,11 @@
 {
   "progressByProfile": {
-    "local": {}
+    "local": {
+      "ma-1::fiche": {
+        "read": true,
+        "lastReviewed": 1787003468509
+      }
+    }
   },
   "profiles": [
     {
