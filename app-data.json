@@ -20112,6 +20112,10 @@
           "total": 20
         }
       ]
+    },
+    "hg-3::fiche": {
+      "read": true,
+      "lastReviewed": 1786961980792
     }
   }
 }
