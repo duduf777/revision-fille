@@ -20098,12 +20098,17 @@
       ]
     },
     "hg-1::q-facile": {
-      "best": 95,
-      "lastReviewed": 1786961863182,
+      "best": 100,
+      "lastReviewed": 1786961968308,
       "history": [
         {
           "date": 1786961863182,
           "score": 19,
+          "total": 20
+        },
+        {
+          "date": 1786961968308,
+          "score": 20,
           "total": 20
         }
       ]
