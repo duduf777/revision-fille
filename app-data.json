@@ -19544,6 +19544,17 @@
       "prepa-1::fiche": {
         "read": true,
         "lastReviewed": 1786983282752
+      },
+      "prepa-1::ai-facile": {
+        "best": 92,
+        "lastReviewed": 1786983494542,
+        "history": [
+          {
+            "date": 1786983494542,
+            "score": 11,
+            "total": 12
+          }
+        ]
       }
     }
   },
