@@ -19972,12 +19972,17 @@
       "lastReviewed": 1786871554454
     },
     "an-1::q-facile": {
-      "best": 85,
-      "lastReviewed": 1786871770403,
+      "best": 100,
+      "lastReviewed": 1786962827484,
       "history": [
         {
           "date": 1786871770403,
           "score": 17,
+          "total": 20
+        },
+        {
+          "date": 1786962827484,
+          "score": 20,
           "total": 20
         }
       ]
