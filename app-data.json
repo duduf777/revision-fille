@@ -8,6 +8,10 @@
       "ma-2::fiche": {
         "read": true,
         "lastReviewed": 1787008983594
+      },
+      "fr-1::fiche": {
+        "read": true,
+        "lastReviewed": 1787044678373
       }
     }
   },
