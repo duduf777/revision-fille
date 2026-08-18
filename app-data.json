@@ -12,6 +12,10 @@
       "fr-1::fiche": {
         "read": true,
         "lastReviewed": 1787044678373
+      },
+      "pc-1::fiche": {
+        "read": true,
+        "lastReviewed": 1787044831461
       }
     }
   },
