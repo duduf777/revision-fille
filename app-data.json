@@ -16,6 +16,17 @@
       "pc-1::fiche": {
         "read": true,
         "lastReviewed": 1787044831461
+      },
+      "pc-1::ai-facile": {
+        "best": 67,
+        "lastReviewed": 1787045496931,
+        "history": [
+          {
+            "date": 1787045496931,
+            "score": 8,
+            "total": 12
+          }
+        ]
       }
     }
   },
