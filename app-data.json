@@ -18,12 +18,17 @@
         "lastReviewed": 1787044831461
       },
       "pc-1::ai-facile": {
-        "best": 67,
-        "lastReviewed": 1787045496931,
+        "best": 92,
+        "lastReviewed": 1787045642735,
         "history": [
           {
             "date": 1787045496931,
             "score": 8,
+            "total": 12
+          },
+          {
+            "date": 1787045642735,
+            "score": 11,
             "total": 12
           }
         ]
