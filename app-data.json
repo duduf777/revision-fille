@@ -134,6 +134,17 @@
       "ma-3::fiche": {
         "read": true,
         "lastReviewed": 1787127280620
+      },
+      "ma-3::q-facile": {
+        "best": 100,
+        "lastReviewed": 1787127379088,
+        "history": [
+          {
+            "date": 1787127379088,
+            "score": 12,
+            "total": 12
+          }
+        ]
       }
     }
   },
