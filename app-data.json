@@ -52,6 +52,17 @@
       "pc-2::fiche": {
         "read": true,
         "lastReviewed": 1787126277087
+      },
+      "pc-2::q-facile": {
+        "best": 92,
+        "lastReviewed": 1787126354255,
+        "history": [
+          {
+            "date": 1787126354255,
+            "score": 11,
+            "total": 12
+          }
+        ]
       }
     }
   },
