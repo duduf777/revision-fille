@@ -165,6 +165,17 @@
       "fr-2::fiche": {
         "read": true,
         "lastReviewed": 1787127537540
+      },
+      "fr-2::q-facile": {
+        "best": 100,
+        "lastReviewed": 1787127602370,
+        "history": [
+          {
+            "date": 1787127602370,
+            "score": 12,
+            "total": 12
+          }
+        ]
       }
     }
   },
