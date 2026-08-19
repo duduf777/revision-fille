@@ -54,12 +54,17 @@
         "lastReviewed": 1787126277087
       },
       "pc-2::q-facile": {
-        "best": 92,
-        "lastReviewed": 1787126354255,
+        "best": 100,
+        "lastReviewed": 1787126422026,
         "history": [
           {
             "date": 1787126354255,
             "score": 11,
+            "total": 12
+          },
+          {
+            "date": 1787126422026,
+            "score": 12,
             "total": 12
           }
         ]
