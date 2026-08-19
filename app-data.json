@@ -92,6 +92,17 @@
       "pc-4::fiche": {
         "read": true,
         "lastReviewed": 1787126644344
+      },
+      "pc-4::q-facile": {
+        "best": 100,
+        "lastReviewed": 1787126716471,
+        "history": [
+          {
+            "date": 1787126716471,
+            "score": 12,
+            "total": 12
+          }
+        ]
       }
     }
   },
