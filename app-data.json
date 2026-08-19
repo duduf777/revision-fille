@@ -176,6 +176,10 @@
             "total": 12
           }
         ]
+      },
+      "fr-3::fiche": {
+        "read": true,
+        "lastReviewed": 1787127612790
       }
     }
   },
