@@ -130,6 +130,10 @@
             "total": 12
           }
         ]
+      },
+      "ma-3::fiche": {
+        "read": true,
+        "lastReviewed": 1787127280620
       }
     }
   },
