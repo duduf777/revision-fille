@@ -114,6 +114,17 @@
             "total": 12
           }
         ]
+      },
+      "ma-2::q-facile": {
+        "best": 92,
+        "lastReviewed": 1787127044340,
+        "history": [
+          {
+            "date": 1787127044339,
+            "score": 11,
+            "total": 12
+          }
+        ]
       }
     }
   },
