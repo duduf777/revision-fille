@@ -180,6 +180,17 @@
       "fr-3::fiche": {
         "read": true,
         "lastReviewed": 1787127612790
+      },
+      "fr-3::q-facile": {
+        "best": 100,
+        "lastReviewed": 1787127680143,
+        "history": [
+          {
+            "date": 1787127680143,
+            "score": 12,
+            "total": 12
+          }
+        ]
       }
     }
   },
