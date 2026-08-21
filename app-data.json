@@ -262,12 +262,17 @@
         "lastReviewed": 1787308713442
       },
       "hg-2::q-facile": {
-        "best": 92,
-        "lastReviewed": 1787308838105,
+        "best": 100,
+        "lastReviewed": 1787308914116,
         "history": [
           {
             "date": 1787308838105,
             "score": 11,
+            "total": 12
+          },
+          {
+            "date": 1787308914116,
+            "score": 12,
             "total": 12
           }
         ]
