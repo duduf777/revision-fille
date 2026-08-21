@@ -225,6 +225,17 @@
       "svt-3::fiche": {
         "read": true,
         "lastReviewed": 1787308521840
+      },
+      "svt-3::q-facile": {
+        "best": 92,
+        "lastReviewed": 1787308578351,
+        "history": [
+          {
+            "date": 1787308578351,
+            "score": 11,
+            "total": 12
+          }
+        ]
       }
     }
   },
