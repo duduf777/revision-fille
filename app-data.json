@@ -280,6 +280,17 @@
       "hg-3::fiche": {
         "read": true,
         "lastReviewed": 1787308919865
+      },
+      "hg-3::q-facile": {
+        "best": 92,
+        "lastReviewed": 1787309007440,
+        "history": [
+          {
+            "date": 1787309007440,
+            "score": 11,
+            "total": 12
+          }
+        ]
       }
     }
   },
