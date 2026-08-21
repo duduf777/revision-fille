@@ -341,6 +341,10 @@
             "total": 12
           }
         ]
+      },
+      "ses-1::fiche": {
+        "read": true,
+        "lastReviewed": 1787309284092
       }
     }
   },
