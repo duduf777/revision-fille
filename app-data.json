@@ -256,6 +256,10 @@
             "total": 12
           }
         ]
+      },
+      "hg-2::fiche": {
+        "read": true,
+        "lastReviewed": 1787308713442
       }
     }
   },
