@@ -245,6 +245,17 @@
       "hg-1::fiche": {
         "read": true,
         "lastReviewed": 1787308648341
+      },
+      "hg-1::q-facile": {
+        "best": 100,
+        "lastReviewed": 1787308708316,
+        "history": [
+          {
+            "date": 1787308708316,
+            "score": 12,
+            "total": 12
+          }
+        ]
       }
     }
   },
