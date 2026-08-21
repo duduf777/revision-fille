@@ -381,6 +381,10 @@
             "total": 12
           }
         ]
+      },
+      "snt-1::fiche": {
+        "read": true,
+        "lastReviewed": 1787309693379
       }
     }
   },
