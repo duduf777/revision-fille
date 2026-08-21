@@ -365,6 +365,17 @@
       "ses-2::fiche": {
         "read": true,
         "lastReviewed": 1787309460180
+      },
+      "ses-2::q-facile": {
+        "best": 92,
+        "lastReviewed": 1787309595104,
+        "history": [
+          {
+            "date": 1787309595104,
+            "score": 11,
+            "total": 12
+          }
+        ]
       }
     }
   },
