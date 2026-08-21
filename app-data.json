@@ -367,12 +367,17 @@
         "lastReviewed": 1787309460180
       },
       "ses-2::q-facile": {
-        "best": 92,
-        "lastReviewed": 1787309595104,
+        "best": 100,
+        "lastReviewed": 1787309678846,
         "history": [
           {
             "date": 1787309595104,
             "score": 11,
+            "total": 12
+          },
+          {
+            "date": 1787309678846,
+            "score": 12,
             "total": 12
           }
         ]
