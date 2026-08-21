@@ -385,6 +385,17 @@
       "snt-1::fiche": {
         "read": true,
         "lastReviewed": 1787309693379
+      },
+      "snt-1::q-facile": {
+        "best": 100,
+        "lastReviewed": 1787309785938,
+        "history": [
+          {
+            "date": 1787309785938,
+            "score": 12,
+            "total": 12
+          }
+        ]
       }
     }
   },
