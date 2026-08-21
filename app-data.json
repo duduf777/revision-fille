@@ -191,6 +191,10 @@
             "total": 12
           }
         ]
+      },
+      "svt-1::fiche": {
+        "read": true,
+        "lastReviewed": 1787308338817
       }
     }
   },
