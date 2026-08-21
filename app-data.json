@@ -241,6 +241,10 @@
             "total": 12
           }
         ]
+      },
+      "hg-1::fiche": {
+        "read": true,
+        "lastReviewed": 1787308648341
       }
     }
   },
