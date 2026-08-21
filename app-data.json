@@ -296,6 +296,10 @@
             "total": 12
           }
         ]
+      },
+      "an-1::fiche": {
+        "read": true,
+        "lastReviewed": 1787309088889
       }
     }
   },
