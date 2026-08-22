@@ -488,10 +488,15 @@
       },
       "prepa-5::q-facile": {
         "best": 92,
-        "lastReviewed": 1787386528252,
+        "lastReviewed": 1787386585854,
         "history": [
           {
             "date": 1787386528252,
+            "score": 11,
+            "total": 12
+          },
+          {
+            "date": 1787386585854,
             "score": 11,
             "total": 12
           }
