@@ -644,12 +644,17 @@
         ]
       },
       "ma-1::ai-facile": {
-        "best": 75,
-        "lastReviewed": 1787473519733,
+        "best": 100,
+        "lastReviewed": 1787473620163,
         "history": [
           {
             "date": 1787473519733,
             "score": 9,
+            "total": 12
+          },
+          {
+            "date": 1787473620163,
+            "score": 12,
             "total": 12
           }
         ]
