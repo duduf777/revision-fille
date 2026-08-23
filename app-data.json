@@ -642,6 +642,17 @@
             "total": 1
           }
         ]
+      },
+      "ma-1::ai-facile": {
+        "best": 75,
+        "lastReviewed": 1787473519733,
+        "history": [
+          {
+            "date": 1787473519733,
+            "score": 9,
+            "total": 12
+          }
+        ]
       }
     }
   },
