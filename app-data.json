@@ -65,7 +65,7 @@
       },
       "pc-2::q-facile": {
         "best": 100,
-        "lastReviewed": 1787126422026,
+        "lastReviewed": 1787558890880,
         "history": [
           {
             "date": 1787126354255,
@@ -76,6 +76,11 @@
             "date": 1787126422026,
             "score": 12,
             "total": 12
+          },
+          {
+            "date": 1787558890880,
+            "score": 1,
+            "total": 1
           }
         ]
       },
@@ -468,7 +473,7 @@
       },
       "prepa-1::q-facile": {
         "best": 100,
-        "lastReviewed": 1787386819888,
+        "lastReviewed": 1787558890880,
         "history": [
           {
             "date": 1787386014380,
@@ -479,6 +484,11 @@
             "date": 1787386819888,
             "score": 1,
             "total": 1
+          },
+          {
+            "date": 1787558890880,
+            "score": 2,
+            "total": 2
           }
         ]
       },
@@ -594,10 +604,15 @@
       },
       "prepa-1::q-moyen": {
         "best": 100,
-        "lastReviewed": 1787386819888,
+        "lastReviewed": 1787558890880,
         "history": [
           {
             "date": 1787386819888,
+            "score": 1,
+            "total": 1
+          },
+          {
+            "date": 1787558890880,
             "score": 1,
             "total": 1
           }
@@ -616,12 +631,17 @@
       },
       "prepa-1::q-difficile": {
         "best": 100,
-        "lastReviewed": 1787386819888,
+        "lastReviewed": 1787558890880,
         "history": [
           {
             "date": 1787386819888,
             "score": 1,
             "total": 1
+          },
+          {
+            "date": 1787558890880,
+            "score": 2,
+            "total": 2
           }
         ]
       },
@@ -686,13 +706,18 @@
         ]
       },
       "pc-4::q-moyen": {
-        "best": 50,
-        "lastReviewed": 1787558784654,
+        "best": 100,
+        "lastReviewed": 1787558890880,
         "history": [
           {
             "date": 1787558784654,
             "score": 1,
             "total": 2
+          },
+          {
+            "date": 1787558890880,
+            "score": 1,
+            "total": 1
           }
         ]
       },
@@ -713,6 +738,17 @@
         "history": [
           {
             "date": 1787558784654,
+            "score": 1,
+            "total": 1
+          }
+        ]
+      },
+      "an-1::q-difficile": {
+        "best": 100,
+        "lastReviewed": 1787558890880,
+        "history": [
+          {
+            "date": 1787558890880,
             "score": 1,
             "total": 1
           }
