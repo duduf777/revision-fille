@@ -218,11 +218,16 @@
       },
       "fr-2::q-facile": {
         "best": 100,
-        "lastReviewed": 1787127602370,
+        "lastReviewed": 1787832439070,
         "history": [
           {
             "date": 1787127602370,
             "score": 12,
+            "total": 12
+          },
+          {
+            "date": 1787832439070,
+            "score": 10,
             "total": 12
           }
         ]
