@@ -167,7 +167,7 @@
       },
       "ma-3::q-facile": {
         "best": 100,
-        "lastReviewed": 1787643350872,
+        "lastReviewed": 1787832696202,
         "history": [
           {
             "date": 1787127379088,
@@ -176,6 +176,11 @@
           },
           {
             "date": 1787643350872,
+            "score": 1,
+            "total": 1
+          },
+          {
+            "date": 1787832696202,
             "score": 1,
             "total": 1
           }
@@ -498,7 +503,7 @@
       },
       "prepa-1::q-facile": {
         "best": 100,
-        "lastReviewed": 1787558890880,
+        "lastReviewed": 1787832696202,
         "history": [
           {
             "date": 1787386014380,
@@ -514,6 +519,11 @@
             "date": 1787558890880,
             "score": 2,
             "total": 2
+          },
+          {
+            "date": 1787832696202,
+            "score": 1,
+            "total": 1
           }
         ]
       },
@@ -688,7 +698,7 @@
       },
       "hg-3::q-difficile": {
         "best": 100,
-        "lastReviewed": 1787643350872,
+        "lastReviewed": 1787832696202,
         "history": [
           {
             "date": 1787472982351,
@@ -699,15 +709,25 @@
             "date": 1787643350872,
             "score": 1,
             "total": 1
+          },
+          {
+            "date": 1787832696202,
+            "score": 1,
+            "total": 1
           }
         ]
       },
       "prepa-5::q-moyen": {
         "best": 100,
-        "lastReviewed": 1787472982351,
+        "lastReviewed": 1787832696202,
         "history": [
           {
             "date": 1787472982351,
+            "score": 1,
+            "total": 1
+          },
+          {
+            "date": 1787832696202,
             "score": 1,
             "total": 1
           }
@@ -840,6 +860,50 @@
           {
             "date": 1787643350872,
             "score": 1,
+            "total": 1
+          }
+        ]
+      },
+      "ma-2::q-moyen": {
+        "best": 100,
+        "lastReviewed": 1787832696202,
+        "history": [
+          {
+            "date": 1787832696202,
+            "score": 1,
+            "total": 1
+          }
+        ]
+      },
+      "hg-2::q-difficile": {
+        "best": 100,
+        "lastReviewed": 1787832696202,
+        "history": [
+          {
+            "date": 1787832696202,
+            "score": 1,
+            "total": 1
+          }
+        ]
+      },
+      "snt-1::q-moyen": {
+        "best": 100,
+        "lastReviewed": 1787832696202,
+        "history": [
+          {
+            "date": 1787832696202,
+            "score": 1,
+            "total": 1
+          }
+        ]
+      },
+      "hg-2::q-moyen": {
+        "best": 0,
+        "lastReviewed": 1787832696202,
+        "history": [
+          {
+            "date": 1787832696202,
+            "score": 0,
             "total": 1
           }
         ]
