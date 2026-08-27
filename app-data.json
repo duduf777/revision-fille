@@ -898,13 +898,18 @@
         ]
       },
       "hg-2::q-moyen": {
-        "best": 0,
-        "lastReviewed": 1787832696202,
+        "best": 92,
+        "lastReviewed": 1787832982194,
         "history": [
           {
             "date": 1787832696202,
             "score": 0,
             "total": 1
+          },
+          {
+            "date": 1787832982194,
+            "score": 11,
+            "total": 12
           }
         ]
       }
