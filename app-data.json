@@ -28,6 +28,10 @@
             "total": 12
           }
         ]
+      },
+      "es-2::fiche": {
+        "read": true,
+        "lastReviewed": 1788608936918
       }
     }
   },
