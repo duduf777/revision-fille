@@ -47,6 +47,17 @@
       "es-3::fiche": {
         "read": true,
         "lastReviewed": 1788609148685
+      },
+      "es-3::q-facile": {
+        "best": 83,
+        "lastReviewed": 1788609272529,
+        "history": [
+          {
+            "date": 1788609272529,
+            "score": 10,
+            "total": 12
+          }
+        ]
       }
     }
   },
