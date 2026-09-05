@@ -312,6 +312,10 @@
       "hg-1::fiche": {
         "read": true,
         "lastReviewed": 1788622950558
+      },
+      "prepa-1::fiche": {
+        "read": true,
+        "lastReviewed": 1788623059055
       }
     }
   },
