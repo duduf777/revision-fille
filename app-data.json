@@ -303,6 +303,10 @@
             "total": 1
           }
         ]
+      },
+      "hg-1::fiche": {
+        "read": true,
+        "lastReviewed": 1788622950558
       }
     }
   },
