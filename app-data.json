@@ -12,57 +12,6 @@
       "es-1::fiche": {
         "read": true,
         "lastReviewed": 1788606949547
-      },
-      "es-1::q-facile": {
-        "best": 100,
-        "lastReviewed": 1788607323374,
-        "history": [
-          {
-            "date": 1788607124062,
-            "score": 11,
-            "total": 12
-          },
-          {
-            "date": 1788607323374,
-            "score": 12,
-            "total": 12
-          }
-        ]
-      },
-      "es-2::fiche": {
-        "read": true,
-        "lastReviewed": 1788608936918
-      },
-      "es-2::q-facile": {
-        "best": 100,
-        "lastReviewed": 1788609136380,
-        "history": [
-          {
-            "date": 1788609136380,
-            "score": 12,
-            "total": 12
-          }
-        ]
-      },
-      "es-3::fiche": {
-        "read": true,
-        "lastReviewed": 1788609148685
-      },
-      "es-3::q-facile": {
-        "best": 92,
-        "lastReviewed": 1788609442962,
-        "history": [
-          {
-            "date": 1788609272529,
-            "score": 10,
-            "total": 12
-          },
-          {
-            "date": 1788609442961,
-            "score": 11,
-            "total": 12
-          }
-        ]
       }
     }
   },
