@@ -14,12 +14,17 @@
         "lastReviewed": 1788606949547
       },
       "es-1::q-facile": {
-        "best": 92,
-        "lastReviewed": 1788607124062,
+        "best": 100,
+        "lastReviewed": 1788607323374,
         "history": [
           {
             "date": 1788607124062,
             "score": 11,
+            "total": 12
+          },
+          {
+            "date": 1788607323374,
+            "score": 12,
             "total": 12
           }
         ]
