@@ -441,6 +441,17 @@
       "pc-3::fiche": {
         "read": true,
         "lastReviewed": 1788624525066
+      },
+      "pc-3::q-facile": {
+        "best": 92,
+        "lastReviewed": 1788624671922,
+        "history": [
+          {
+            "date": 1788624671922,
+            "score": 11,
+            "total": 12
+          }
+        ]
       }
     }
   },
