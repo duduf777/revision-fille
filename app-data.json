@@ -43,6 +43,10 @@
             "total": 12
           }
         ]
+      },
+      "es-3::fiche": {
+        "read": true,
+        "lastReviewed": 1788609148685
       }
     }
   },
