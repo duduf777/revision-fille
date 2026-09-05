@@ -407,6 +407,10 @@
             "total": 12
           }
         ]
+      },
+      "pc-1::fiche": {
+        "read": true,
+        "lastReviewed": 1788624148241
       }
     }
   },
