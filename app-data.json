@@ -478,6 +478,17 @@
             "total": 12
           }
         ]
+      },
+      "ma-2::q-facile": {
+        "best": 83,
+        "lastReviewed": 1788625254575,
+        "history": [
+          {
+            "date": 1788625254575,
+            "score": 10,
+            "total": 12
+          }
+        ]
       }
     }
   },
