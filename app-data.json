@@ -172,6 +172,17 @@
       "pc-2::fiche": {
         "read": true,
         "lastReviewed": 1788686590913
+      },
+      "pc-2::q-facile": {
+        "best": 92,
+        "lastReviewed": 1788686686913,
+        "history": [
+          {
+            "date": 1788686686913,
+            "score": 11,
+            "total": 12
+          }
+        ]
       }
     }
   },
