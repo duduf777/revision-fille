@@ -250,6 +250,10 @@
             "total": 12
           }
         ]
+      },
+      "ma-3::fiche": {
+        "read": true,
+        "lastReviewed": 1788687792031
       }
     }
   },
