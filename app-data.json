@@ -146,6 +146,17 @@
       "prepa-6::fiche": {
         "read": true,
         "lastReviewed": 1788681830725
+      },
+      "prepa-6::q-facile": {
+        "best": 100,
+        "lastReviewed": 1788681882142,
+        "history": [
+          {
+            "date": 1788681882142,
+            "score": 12,
+            "total": 12
+          }
+        ]
       }
     }
   },
