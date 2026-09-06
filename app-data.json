@@ -67,6 +67,10 @@
       "pc-1::fiche": {
         "read": true,
         "lastReviewed": 1788634300587
+      },
+      "prepa-1::fiche": {
+        "read": true,
+        "lastReviewed": 1788681380969
       }
     }
   },
