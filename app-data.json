@@ -142,6 +142,10 @@
             "total": 12
           }
         ]
+      },
+      "prepa-6::fiche": {
+        "read": true,
+        "lastReviewed": 1788681830725
       }
     }
   },
