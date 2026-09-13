@@ -325,12 +325,17 @@
         "lastReviewed": 1789290586326
       },
       "6e-svt-2::q-facile": {
-        "best": 83,
-        "lastReviewed": 1789290725905,
+        "best": 100,
+        "lastReviewed": 1789290898287,
         "history": [
           {
             "date": 1789290725904,
             "score": 10,
+            "total": 12
+          },
+          {
+            "date": 1789290898287,
+            "score": 12,
             "total": 12
           }
         ]
