@@ -254,6 +254,10 @@
             "total": 12
           }
         ]
+      },
+      "6e-ma-1::fiche": {
+        "read": true,
+        "lastReviewed": 1789289706172
       }
     }
   },
