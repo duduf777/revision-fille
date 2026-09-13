@@ -239,6 +239,10 @@
       "ma-3::fiche": {
         "read": true,
         "lastReviewed": 1789289524692
+      },
+      "6e-fr-1::fiche": {
+        "read": true,
+        "lastReviewed": 1789289577512
       }
     }
   },
