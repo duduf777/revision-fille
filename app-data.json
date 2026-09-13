@@ -359,6 +359,10 @@
             "total": 12
           }
         ]
+      },
+      "6e-pc-2::fiche": {
+        "read": true,
+        "lastReviewed": 1789291146636
       }
     }
   },
