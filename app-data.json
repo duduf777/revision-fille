@@ -304,6 +304,10 @@
             "total": 12
           }
         ]
+      },
+      "6e-svt-1::fiche": {
+        "read": true,
+        "lastReviewed": 1789290337478
       }
     }
   },
