@@ -269,6 +269,10 @@
             "total": 12
           }
         ]
+      },
+      "6e-hg-1::fiche": {
+        "read": true,
+        "lastReviewed": 1789289842055
       }
     }
   },
