@@ -288,6 +288,17 @@
       "6e-hg-2::fiche": {
         "read": true,
         "lastReviewed": 1789290024749
+      },
+      "6e-hg-2::q-facile": {
+        "best": 92,
+        "lastReviewed": 1789290201627,
+        "history": [
+          {
+            "date": 1789290201627,
+            "score": 11,
+            "total": 12
+          }
+        ]
       }
     }
   },
