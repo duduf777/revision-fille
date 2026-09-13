@@ -345,12 +345,17 @@
         "lastReviewed": 1789290909045
       },
       "6e-pc-1::q-facile": {
-        "best": 92,
-        "lastReviewed": 1789291063914,
+        "best": 100,
+        "lastReviewed": 1789291142065,
         "history": [
           {
             "date": 1789291063913,
             "score": 11,
+            "total": 12
+          },
+          {
+            "date": 1789291142064,
+            "score": 12,
             "total": 12
           }
         ]
