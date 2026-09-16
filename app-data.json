@@ -389,6 +389,10 @@
             "total": 12
           }
         ]
+      },
+      "5e-fr-1::fiche": {
+        "read": true,
+        "lastReviewed": 1789536961814
       }
     }
   },
